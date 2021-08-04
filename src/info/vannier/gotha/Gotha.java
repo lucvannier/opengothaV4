@@ -39,7 +39,7 @@ public class Gotha {
     
     static Locale locale = Locale.getDefault();
     static final long GOTHA_VERSION = 352L;
-    static final long GOTHA_MINOR_VERSION = 0L;
+    static final long GOTHA_MINOR_VERSION = 1L;
     static final java.util.Date GOTHA_RELEASE_DATE = (new GregorianCalendar(2021, Calendar.AUGUST, 4)).getTime();
     
     // Should definitely stay below or equal to 32, due to internal limits in costValue() method
