@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tournament dataVersion="201" externalIPAddress="104.243.98.32" fullVersionNumber="3.51" runningMode="SAL" saveDT="20210521195829">
+<Players>
+<Player agaExpirationDate="" agaId="" club="A" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Arianna Yunqi" grade="20" name="Huang" participating="11111111111111111111" rank="20K" rating="-400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="C" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Derek" grade="20" name="Zhen" participating="11111111111111111111" rank="20K" rating="-200" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Richard Tianze" grade="10" name="Feng" participating="11111111111111111111" rank="10K" rating="100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Dakun" grade="13" name="Jin" participating="11111111111111111111" rank="13K" rating="600" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="A" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Olivia Briarlight" grade="15" name="Li" participating="11111111111111111111" rank="15K" rating="100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="C" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Yannis Lee" grade="15" name="Du" participating="11111111111111111111" rank="15K" rating="-200" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Kaiyi (Jim" grade="18" name="Ji" participating="11111111111111111111" rank="18K" rating="-400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Curtis Yida" grade="21" name="Song" participating="11111111111111111111" rank="21K" rating="-200" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Eric" grade="20" name="Suen" participating="11111111111111111111" rank="20K" rating="-400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Omnomnom Andrew" grade="15" name="Ni" participating="11111111111111111111" rank="15K" rating="-400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="A" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Trina" grade="20" name="Liu" participating="11111111111111111111" rank="20K" rating="300" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Michae Jiahao" grade="4" name="Liu" participating="11111111111111111111" rank="4K" rating="1300" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="A" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Elaine" grade="23" name="Sun" participating="11111111111111111111" rank="23K" rating="-400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="C" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Tony" grade="15" name="Yuan" participating="11111111111111111111" rank="15K" rating="600" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Danny Minghao" grade="10" name="Liu" participating="11111111111111111111" rank="10K" rating="100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="A" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Mia" grade="23" name="Li" participating="11111111111111111111" rank="23K" rating="-400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Karl" grade="15" name="Yu" participating="11111111111111111111" rank="15K" rating="600" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="C" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Jason" grade="3K" name="Liu" participating="11111111111111111111" rank="3K" rating="1800" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="A" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Yolanda Yuexi" grade="15" name="Du" participating="11111111111111111111" rank="15K" rating="200" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Xuanye (Theo" grade="20" name="Huang" participating="11111111111111111111" rank="20K" rating="100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Yiming" grade="20" name="Chen" participating="11111111111111111111" rank="20K" rating="100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Benjamin" grade="18" name="Liao" participating="11111111111111111111" rank="18K" rating="100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="C" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Alvin" grade="15" name="Shan" participating="11111111111111111111" rank="15K" rating="-200" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Justin" grade="13" name="Liang" participating="11111111111111111111" rank="13K" rating="200" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="A" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Ella" grade="20" name="Liang" participating="11111111111111111111" rank="20K" rating="100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Boe" grade="15" name="Liao" participating="11111111111111111111" rank="15K" rating="100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Eric" grade="15" name="Kuksin" participating="11111111111111111111" rank="15K" rating="100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="A" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Deanne Chengyun" grade="18" name="Zhu" participating="11111111111111111111" rank="18K" rating="-400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="C" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Eric Youren" grade="13" name="Xu" participating="11111111111111111111" rank="13K" rating="600" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="C" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Max" grade="10" name="Zhao" participating="11111111111111111111" rank="10K" rating="100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="William" grade="4K" name="Yin" participating="11111111111111111111" rank="4K" rating="1700" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Youmi" grade="19" name="Liu" participating="11111111111111111111" rank="19K" rating="200" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Rex" grade="15" name="Wang" participating="11111111111111111111" rank="15K" rating="100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Leon" grade="15" name="Chen" participating="11111111111111111111" rank="15K" rating="-400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="C" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Eddie Huize" grade="20" name="Du" participating="11111111111111111111" rank="20K" rating="-400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="B" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Jordan Derui" grade="14" name="Kong" participating="11111111111111111111" rank="14K" rating="100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+</Players>
+<Games>
+<Game blackPlayer="DUYOLANDAYUEXI" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="1" whitePlayer="LIOLIVIABRIARLIGHT"/>
+<Game blackPlayer="LIANGELLA" handicap="1" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="2" whitePlayer="ZHUDEANNECHENGYUN"/>
+<Game blackPlayer="LIUTRINA" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="3" whitePlayer="HUANGARIANNAYUNQI"/>
+<Game blackPlayer="LIMIA" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="4" whitePlayer="SUNELAINE"/>
+<Game blackPlayer="DUYANNISLEE" handicap="1" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="5" whitePlayer="XUERICYOUREN"/>
+<Game blackPlayer="YUANTONY" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="6" whitePlayer="SHANALVIN"/>
+<Game blackPlayer="ZHENDEREK" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="7" whitePlayer="DUEDDIEHUIZE"/>
+<Game blackPlayer="YINWILLIAM" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="8" whitePlayer="LIUJASON"/>
+<Game blackPlayer="LIUDANNYMINGHAO" handicap="5" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="9" whitePlayer="LIUMICHAEJIAHAO"/>
+<Game blackPlayer="FENGRICHARDTIANZE" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="10" whitePlayer="ZHAOMAX"/>
+<Game blackPlayer="JINDAKUN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="11" whitePlayer="LIANGJUSTIN"/>
+<Game blackPlayer="YUKARL" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="12" whitePlayer="KONGJORDANDERUI"/>
+<Game blackPlayer="KUKSINERIC" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="13" whitePlayer="CHENLEON"/>
+<Game blackPlayer="NIOMNOMNOMANDREW" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="14" whitePlayer="LIAOBOE"/>
+<Game blackPlayer="LIAOBENJAMIN" handicap="2" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="15" whitePlayer="WANGREX"/>
+<Game blackPlayer="JIKAIYI(JIM" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="16" whitePlayer="LIUYOUMI"/>
+<Game blackPlayer="CHENYIMING" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="17" whitePlayer="SONGCURTISYIDA"/>
+<Game blackPlayer="HUANGXUANYE(THEO" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="18" whitePlayer="SUENERIC"/>
+<Game blackPlayer="ZHAOMAX" handicap="6" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="1" whitePlayer="LIUJASON"/>
+<Game blackPlayer="FENGRICHARDTIANZE" handicap="5" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="2" whitePlayer="LIUMICHAEJIAHAO"/>
+<Game blackPlayer="XUERICYOUREN" handicap="8" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="3" whitePlayer="YINWILLIAM"/>
+<Game blackPlayer="JINDAKUN" handicap="2" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="4" whitePlayer="LIUDANNYMINGHAO"/>
+<Game blackPlayer="KUKSINERIC" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="5" whitePlayer="YUKARL"/>
+<Game blackPlayer="DUYANNISLEE" handicap="1" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="6" whitePlayer="LIANGJUSTIN"/>
+<Game blackPlayer="CHENLEON" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="7" whitePlayer="DUYOLANDAYUEXI"/>
+<Game blackPlayer="LIOLIVIABRIARLIGHT" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="8" whitePlayer="WANGREX"/>
+<Game blackPlayer="KONGJORDANDERUI" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="9" whitePlayer="SHANALVIN"/>
+<Game blackPlayer="YUANTONY" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="10" whitePlayer="LIAOBOE"/>
+<Game blackPlayer="ZHUDEANNECHENGYUN" handicap="2" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="11" whitePlayer="NIOMNOMNOMANDREW"/>
+<Game blackPlayer="LIUYOUMI" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="12" whitePlayer="ZHENDEREK"/>
+<Game blackPlayer="SUENERIC" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="13" whitePlayer="DUEDDIEHUIZE"/>
+<Game blackPlayer="HUANGARIANNAYUNQI" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="14" whitePlayer="LIANGELLA"/>
+<Game blackPlayer="LIAOBENJAMIN" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="15" whitePlayer="JIKAIYI(JIM"/>
+<Game blackPlayer="LIUTRINA" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="16" whitePlayer="CHENYIMING"/>
+<Game blackPlayer="LIMIA" handicap="2" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="17" whitePlayer="HUANGXUANYE(THEO"/>
+<Game blackPlayer="SUNELAINE" handicap="1" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="18" whitePlayer="SONGCURTISYIDA"/>
+<Game blackPlayer="ZHUDEANNECHENGYUN" handicap="2" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="1" whitePlayer="DUYOLANDAYUEXI"/>
+<Game blackPlayer="LIUTRINA" handicap="4" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="2" whitePlayer="LIOLIVIABRIARLIGHT"/>
+<Game blackPlayer="LIMIA" handicap="2" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="3" whitePlayer="HUANGARIANNAYUNQI"/>
+<Game blackPlayer="SUNELAINE" handicap="2" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="4" whitePlayer="LIANGELLA"/>
+<Game blackPlayer="LIUMICHAEJIAHAO" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="5" whitePlayer="YINWILLIAM"/>
+<Game blackPlayer="FENGRICHARDTIANZE" handicap="6" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="6" whitePlayer="LIUJASON"/>
+<Game blackPlayer="ZHAOMAX" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="7" whitePlayer="LIUDANNYMINGHAO"/>
+<Game blackPlayer="LIANGJUSTIN" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="8" whitePlayer="XUERICYOUREN"/>
+<Game blackPlayer="YUKARL" handicap="1" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="9" whitePlayer="JINDAKUN"/>
+<Game blackPlayer="KONGJORDANDERUI" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="10" whitePlayer="KUKSINERIC"/>
+<Game blackPlayer="CHENLEON" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="11" whitePlayer="DUYANNISLEE"/>
+<Game blackPlayer="SHANALVIN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="12" whitePlayer="NIOMNOMNOMANDREW"/>
+<Game blackPlayer="LIAOBOE" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="13" whitePlayer="WANGREX"/>
+<Game blackPlayer="LIUYOUMI" handicap="3" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="14" whitePlayer="YUANTONY"/>
+<Game blackPlayer="SUENERIC" handicap="1" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="15" whitePlayer="JIKAIYI(JIM"/>
+<Game blackPlayer="ZHENDEREK" handicap="1" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="16" whitePlayer="LIAOBENJAMIN"/>
+<Game blackPlayer="CHENYIMING" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="17" whitePlayer="HUANGXUANYE(THEO"/>
+<Game blackPlayer="DUEDDIEHUIZE" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="18" whitePlayer="SONGCURTISYIDA"/>
+<Game blackPlayer="HUANGARIANNAYUNQI" handicap="4" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="1" whitePlayer="DUYOLANDAYUEXI"/>
+<Game blackPlayer="ZHUDEANNECHENGYUN" handicap="2" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="2" whitePlayer="LIOLIVIABRIARLIGHT"/>
+<Game blackPlayer="LIMIA" handicap="2" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="3" whitePlayer="LIANGELLA"/>
+<Game blackPlayer="SUNELAINE" handicap="2" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="4" whitePlayer="LIUTRINA"/>
+<Game blackPlayer="LIUJASON" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="5" whitePlayer="LIUMICHAEJIAHAO"/>
+<Game blackPlayer="ZHAOMAX" handicap="5" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="6" whitePlayer="YINWILLIAM"/>
+<Game blackPlayer="LIUDANNYMINGHAO" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="7" whitePlayer="FENGRICHARDTIANZE"/>
+<Game blackPlayer="XUERICYOUREN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="8" whitePlayer="JINDAKUN"/>
+<Game blackPlayer="SHANALVIN" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="9" whitePlayer="YUKARL"/>
+<Game blackPlayer="LIANGJUSTIN" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="10" whitePlayer="KONGJORDANDERUI"/>
+<Game blackPlayer="WANGREX" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="11" whitePlayer="KUKSINERIC"/>
+<Game blackPlayer="LIAOBOE" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="12" whitePlayer="CHENLEON"/>
+<Game blackPlayer="NIOMNOMNOMANDREW" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="13" whitePlayer="YUANTONY"/>
+<Game blackPlayer="JIKAIYI(JIM" handicap="2" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="14" whitePlayer="DUYANNISLEE"/>
+<Game blackPlayer="LIUYOUMI" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="15" whitePlayer="LIAOBENJAMIN"/>
+<Game blackPlayer="SUENERIC" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="16" whitePlayer="ZHENDEREK"/>
+<Game blackPlayer="DUEDDIEHUIZE" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="17" whitePlayer="CHENYIMING"/>
+<Game blackPlayer="SONGCURTISYIDA" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="18" whitePlayer="HUANGXUANYE(THEO"/>
+</Games>
+<Teams>
+<Team teamName="" teamNumber="1"/>
+<Team teamName="Girls" teamNumber="2">
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="1"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="1"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="1"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="1"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="1"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="1"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="1"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="1"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="2"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="2"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="2"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="2"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="2"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="2"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="2"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="2"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="3"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="3"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="3"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="3"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="3"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="3"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="3"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="3"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="4"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="4"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="4"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="4"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="4"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="4"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="4"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="4"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="5"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="5"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="5"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="5"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="5"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="5"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="5"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="5"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="6"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="6"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="6"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="6"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="6"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="6"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="6"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="6"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="7"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="7"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="7"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="7"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="7"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="7"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="7"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="7"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="8"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="8"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="8"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="8"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="8"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="8"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="8"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="8"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="9"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="9"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="9"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="9"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="9"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="9"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="9"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="9"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="10"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="10"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="10"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="10"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="10"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="10"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="10"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="10"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="11"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="11"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="11"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="11"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="11"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="11"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="11"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="11"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="12"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="12"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="12"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="12"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="12"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="12"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="12"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="12"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="13"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="13"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="13"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="13"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="13"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="13"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="13"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="13"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="14"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="14"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="14"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="14"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="14"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="14"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="14"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="14"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="15"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="15"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="15"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="15"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="15"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="15"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="15"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="15"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="16"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="16"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="16"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="16"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="16"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="16"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="16"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="16"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="17"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="17"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="17"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="17"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="17"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="17"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="17"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="17"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="18"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="18"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="18"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="18"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="18"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="18"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="18"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="18"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="19"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="19"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="19"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="19"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="19"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="19"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="19"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="19"/>
+<Board boardNumber="1" player="DUYOLANDAYUEXI" roundNumber="20"/>
+<Board boardNumber="2" player="LIUTRINA" roundNumber="20"/>
+<Board boardNumber="3" player="LIOLIVIABRIARLIGHT" roundNumber="20"/>
+<Board boardNumber="4" player="LIANGELLA" roundNumber="20"/>
+<Board boardNumber="5" player="HUANGARIANNAYUNQI" roundNumber="20"/>
+<Board boardNumber="6" player="LIMIA" roundNumber="20"/>
+<Board boardNumber="7" player="SUNELAINE" roundNumber="20"/>
+<Board boardNumber="8" player="ZHUDEANNECHENGYUN" roundNumber="20"/>
+</Team>
+</Teams>
+<TournamentParameterSet>
+<GeneralParameterSet bInternet="false" basicTime="60" beginDate="2020-07-12" canByoYomiTime="300" complementaryTimeSystem="STDBYOYOMI" director="Director name" endDate="2020-07-12" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="4D" genMMFloor="25K" genMMS2ValueAbsent="0" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="2" genRoundDownNBWMMS="true" komi="7.5" location="Location name" name="2020Rating" nbMovesCanTime="15" numberOfCategories="1" numberOfRounds="6" shortName="2021 Spring Calgary Junior Go Championship Tournament" size="19" stdByoYomiTime="30"/>
+<HandicapParameterSet hdBasedOnMMS="false" hdCeiling="9" hdCorrection="1" hdNoHdRankThreshold="1D"/>
+<PlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="MMS" number="1"/>
+<PlacementCriterion name="SOSM" number="2"/>
+<PlacementCriterion name="SOSOSM" number="3"/>
+<PlacementCriterion name="NULL" number="4"/>
+<PlacementCriterion name="NULL" number="5"/>
+<PlacementCriterion name="NULL" number="6"/>
+</PlacementCriteria>
+</PlacementParameterSet>
+<PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="NULL" paiMaAvoidMixingCategories="0" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="MID" paiMaDUDDUpperMode="MID" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDRANDOM" paiMaSeedSystem2="SPLITANDSLIP" paiSeAvoidSameGeo="100000000000" paiSeBarThresholdActive="true" paiSeDefSecCrit="100000000000" paiSeMinimizeHandicap="0" paiSeNbWinsThresholdActive="false" paiSePreferMMSDiffRatherThanSameClub="3" paiSePreferMMSDiffRatherThanSameCountry="1" paiSeRankThreshold="1D" paiStandardNX1Factor="0.5"/>
+<DPParameterSet displayClCol="true" displayCoCol="true" displayIndGamesInMatches="true" displayNPPlayers="false" displayNumCol="true" displayPlCol="true" gameFormat="full" playerSortType="name" showByePlayer="true" showNotFinallyRegisteredPlayers="true" showNotPairedPlayers="true" showNotParticipatingPlayers="false" showPlayerClub="true" showPlayerCountry="false" showPlayerGrade="true"/>
+<PublishParameterSet exportToLocalFile="true" htmlAutoScroll="false" print="true"/>
+</TournamentParameterSet>
+<TeamTournamentParameterSet>
+<TeamGeneralParameterSet teamSize="8"/>
+<TeamPlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="TEAMP" number="1"/>
+<PlacementCriterion name="BDW" number="2"/>
+<PlacementCriterion name="BDW3U" number="3"/>
+<PlacementCriterion name="BDW2U" number="4"/>
+<PlacementCriterion name="BDW1U" number="5"/>
+<PlacementCriterion name="MNR" number="6"/>
+</PlacementCriteria>
+</TeamPlacementParameterSet>
+</TeamTournamentParameterSet>
+<ClubsGroups>
+<ClubsGroup name="CJGC">
+<Club name="Boys"/>
+<Club name="Girls"/>
+</ClubsGroup>
+</ClubsGroups>
+</Tournament>

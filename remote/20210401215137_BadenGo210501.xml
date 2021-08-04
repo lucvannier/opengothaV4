@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tournament dataVersion="201" externalIPAddress="46.223.162.115" fullVersionNumber="3.51" runningMode="SAL" saveDT="20210401215137">
+    <Players>
+        <Player agaExpirationDate="" agaId="" club="F" country="DE" egfPin="17933608" ffgLicence="" ffgLicenceStatus="" firstName="Shukai_Kirby" grade="2D" name="Zhang" participating="11111111111111111111" rank="2D" rating="2243" ratingOrigin="EGF : 2243" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="RAT" country="DE" egfPin="19501196" ffgLicence="" ffgLicenceStatus="" firstName="Marlon" grade="14K" name="Verstappen" participating="11111111111111111111" rank="14K" rating="740" ratingOrigin="EGF : 740" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="EL" country="DE" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Tim" grade="25K" name="Moedden" participating="11111111111111111111" rank="25K" rating="-400" ratingOrigin="MAN" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="FR" country="DE" egfPin="13049839" ffgLicence="" ffgLicenceStatus="" firstName="Kirsten" grade=" 2K" name="Grimm" participating="11111111111111111111" rank="2K" rating="1828" ratingOrigin="EGF : 1828" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="KA" country="DE" egfPin="17825709" ffgLicence="" ffgLicenceStatus="" firstName="Wilhelm" grade="18K" name="Buehler" participating="01111111111111111111" rank="18K" rating="300" ratingOrigin="EGF : 300" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="KA" country="DE" egfPin="17886704" ffgLicence="" ffgLicenceStatus="" firstName="Sophia" grade="12K" name="Markus" participating="11111111111111111111" rank="12K" rating="852" ratingOrigin="EGF : 852" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="OS" country="DE" egfPin="19537903" ffgLicence="" ffgLicenceStatus="" firstName="Nikola" grade="6K" name="Tsarigradski" participating="11111111111111111111" rank="6K" rating="1500" ratingOrigin="MAN" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="BS" country="DE" egfPin="19401624" ffgLicence="" ffgLicenceStatus="" firstName="Xihan" grade="16K" name="Zhang" participating="11111111111111111111" rank="16K" rating="500" ratingOrigin="MAN" registeringStatus="FIN" smmsCorrection="0"/>
+    </Players>
+    <Games/>
+    <Teams>
+        <Team teamName="Badischer Go-Verein" teamNumber="1">
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="1"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="2"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="3"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="4"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="5"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="6"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="7"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="8"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="9"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="10"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="11"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="12"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="13"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="14"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="15"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="16"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="17"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="18"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="19"/>
+            <Board boardNumber="1" player="BUEHLERWILHELM" roundNumber="20"/>
+        </Team>
+        <Team teamName="ZZ_No_Team" teamNumber="2">
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="1"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="1"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="2"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="2"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="3"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="3"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="4"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="4"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="5"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="5"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="6"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="6"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="7"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="7"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="8"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="8"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="9"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="9"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="10"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="10"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="11"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="11"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="12"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="12"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="13"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="13"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="14"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="14"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="15"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="15"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="16"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="16"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="17"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="17"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="18"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="18"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="19"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="19"/>
+            <Board boardNumber="1" player="ZHANGSHUKAI_KIRBY" roundNumber="20"/>
+            <Board boardNumber="2" player="GRIMMKIRSTEN" roundNumber="20"/>
+        </Team>
+    </Teams>
+    <TournamentParameterSet>
+        <GeneralParameterSet bInternet="true" basicTime="20" beginDate="2021-05-01" canByoYomiTime="300" complementaryTimeSystem="FISCHER" director="Wilhelm Buehler" endDate="2021-05-29" fischerTime="5" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="1D" genMMFloor="25K" genMMS2ValueAbsent="1" genMMS2ValueBye="1" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="0" genRoundDownNBWMMS="false" komi="7" location="BadukClub/OGS" name="Frühjahrs-Online-Go-Turnier 2021" nbMovesCanTime="15" numberOfCategories="1" numberOfRounds="5" shortName="BadenGo210501" size="19" stdByoYomiTime="30"/>
+        <HandicapParameterSet hdBasedOnMMS="true" hdCeiling="9" hdCorrection="1" hdNoHdRankThreshold="1D"/>
+        <PlacementParameterSet>
+            <PlacementCriteria>
+                <PlacementCriterion name="MMS" number="1"/>
+                <PlacementCriterion name="SOSM" number="2"/>
+                <PlacementCriterion name="SOSOSM" number="3"/>
+                <PlacementCriterion name="Rating" number="4"/>
+                <PlacementCriterion name="NULL" number="5"/>
+                <PlacementCriterion name="NULL" number="6"/>
+            </PlacementCriteria>
+        </PlacementParameterSet>
+        <PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="NULL" paiMaAvoidMixingCategories="0" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="MID" paiMaDUDDUpperMode="MID" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDRANDOM" paiMaSeedSystem2="SPLITANDSLIP" paiSeAvoidSameGeo="100000000000" paiSeBarThresholdActive="true" paiSeDefSecCrit="100000000000" paiSeMinimizeHandicap="0" paiSeNbWinsThresholdActive="false" paiSePreferMMSDiffRatherThanSameClub="3" paiSePreferMMSDiffRatherThanSameCountry="1" paiSeRankThreshold="1D" paiStandardNX1Factor="0.5"/>
+        <DPParameterSet displayClCol="true" displayCoCol="true" displayIndGamesInMatches="true" displayNPPlayers="true" displayNumCol="true" displayPlCol="false" gameFormat="full" playerSortType="name" showByePlayer="true" showNotFinallyRegisteredPlayers="true" showNotPairedPlayers="true" showNotParticipatingPlayers="true" showPlayerClub="true" showPlayerCountry="false" showPlayerGrade="true"/>
+        <PublishParameterSet exportToLocalFile="true" htmlAutoScroll="false" print="true"/>
+    </TournamentParameterSet>
+    <TeamTournamentParameterSet>
+        <TeamGeneralParameterSet teamSize="9"/>
+        <TeamPlacementParameterSet>
+            <PlacementCriteria>
+                <PlacementCriterion name="TEAMP" number="1"/>
+                <PlacementCriterion name="BDW" number="2"/>
+                <PlacementCriterion name="BDW3U" number="3"/>
+                <PlacementCriterion name="BDW2U" number="4"/>
+                <PlacementCriterion name="BDW1U" number="5"/>
+                <PlacementCriterion name="MNR" number="6"/>
+            </PlacementCriteria>
+        </TeamPlacementParameterSet>
+    </TeamTournamentParameterSet>
+</Tournament>

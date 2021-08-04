@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tournament externalIPAddress="77.128.107.78" fullVersionNumber="3.51.08" macAddress="1C-1B-0D-21-40-98" privateTournament="true" runningMode="SAL" saveDT="20210530185728">
+<Players>
+<Player agaExpirationDate="2/18/2022" agaId="20436" club="ALBQ" country="US" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Akita" grade="28K" name="Noek" participating="11111111111111111111" rank="28K" rating="-700" ratingOrigin="AGA : -28.50" registeringStatus="FIN" smmsCorrection="0" userName="na"/>
+<Player agaExpirationDate="12/31/2199" agaId="12011" club="ESGC" country="US" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Steve" grade="4K" name="Colburn" participating="11111111111111111111" rank="4K" rating="1668" ratingOrigin="AGA : -4.82" registeringStatus="FIN" smmsCorrection="0" userName="cs"/>
+<Player agaExpirationDate="" agaId="" club="31Ba" country="FR" egfPin="" ffgLicence="7902000" ffgLicenceStatus="L" firstName="Luc" grade="3K" name="Vannier" participating="11111111111111111111" rank="3K" rating="1791" ratingOrigin="FFG : -259" registeringStatus="FIN" smmsCorrection="0" userName="vl"/>
+</Players>
+<Games>
+<Game blackPlayer="VANNIERLUC" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="1" tableNumber="1" whitePlayer="COLBURNSTEVE"/>
+</Games>
+<ByePlayers>
+<ByePlayer player="NOEKAKITA" roundNumber="1"/>
+</ByePlayers>
+<TournamentParameterSet>
+<GeneralParameterSet bInternetGame="false" basicTime="60" beginDate="2021-05-27" canByoYomiTime="300" complementaryTimeSystem="STDBYOYOMI" director="LV" endDate="2021-05-27" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="4D" genMMFloor="20K" genMMS2ValueAbsent="1" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="2" genRoundDownNBWMMS="true" komi="7.5" location="Toulouse" name="OnLineTest" nbMovesCanTime="15" numberOfBZHGroups="4" numberOfCategories="1" numberOfRounds="5" shortName="OnLineTest" size="19" stdByoYomiTime="30">
+<BZHGroups>
+<BZHGroup lowerLimit="2K" number="1"/>
+<BZHGroup lowerLimit="7K" number="2"/>
+<BZHGroup lowerLimit="12K" number="3"/>
+</BZHGroups>
+</GeneralParameterSet>
+<HandicapParameterSet hdBase="BZS" hdCeiling="0" hdCorrection="0" hdNoHdRankThreshold="30K"/>
+<PlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="BZS" number="1"/>
+<PlacementCriterion name="SOSB" number="2"/>
+<PlacementCriterion name="SOSOSB" number="3"/>
+<PlacementCriterion name="NULL" number="4"/>
+<PlacementCriterion name="NULL" number="5"/>
+<PlacementCriterion name="NULL" number="6"/>
+</PlacementCriteria>
+</PlacementParameterSet>
+<PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="NULL" paiMaAvoidMixingCategories="0" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="MID" paiMaDUDDUpperMode="MID" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDRANDOM" paiMaSeedSystem2="SPLITANDSLIP" paiSeAvoidSameGeo="100000000000" paiSeBarThresholdActive="true" paiSeDefSecCrit="100000000000" paiSeMinimizeHandicap="0" paiSeNbWinsThresholdActive="false" paiSePreferMMSDiffRatherThanSameClub="3" paiSePreferMMSDiffRatherThanSameCountry="1" paiSeRankThreshold="1D" paiStandardNX1Factor="0.5"/>
+<DPParameterSet displayClCol="true" displayCoCol="true" displayIndGamesInMatches="true" displayNPPlayers="false" displayNumCol="true" displayPlCol="true" gameFormat="full" playerSortType="name" showByePlayer="true" showNotFinallyRegisteredPlayers="true" showNotPairedPlayers="true" showNotParticipatingPlayers="false" showPlayerClub="true" showPlayerCountry="false" showPlayerGrade="true"/>
+<PublishParameterSet exportToLocalFile="true" htmlAutoScroll="false" print="true"/>
+</TournamentParameterSet>
+<TeamTournamentParameterSet>
+<TeamGeneralParameterSet teamSize="4"/>
+<TeamPlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="TEAMP" number="1"/>
+<PlacementCriterion name="BDW" number="2"/>
+<PlacementCriterion name="BDW3U" number="3"/>
+<PlacementCriterion name="BDW2U" number="4"/>
+<PlacementCriterion name="BDW1U" number="5"/>
+<PlacementCriterion name="MNR" number="6"/>
+</PlacementCriteria>
+</TeamPlacementParameterSet>
+</TeamTournamentParameterSet>
+</Tournament>

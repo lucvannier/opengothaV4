@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tournament dataVersion="201" externalIPAddress="124.197.51.233" fullVersionNumber="3.51" runningMode="SAL" saveDT="20210508233753">
+<Players>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000032" ffgLicence="" ffgLicenceStatus="" firstName="Aki" grade=" 1K" name="Watanabe" participating="11111111111111111111" rank="1K" rating="1966" ratingOrigin="EGF : 1966" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000069" ffgLicence="" ffgLicenceStatus="" firstName="An" grade="15K" name="Baker" participating="11111111111111111111" rank="15K" rating="564" ratingOrigin="EGF : 564" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000002" ffgLicence="" ffgLicenceStatus="" firstName="Colin" grade=" 4D" name="Grierson" participating="11111111111111111111" rank="4D" rating="2373" ratingOrigin="EGF : 2373" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000071" ffgLicence="" ffgLicenceStatus="" firstName="Aaron" grade="12K" name="Yang" participating="11111111111111111111" rank="12K" rating="876" ratingOrigin="EGF : 876" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000109" ffgLicence="" ffgLicenceStatus="" firstName="Chaoqun" grade=" 4D" name="Zhou" participating="11111111111111111111" rank="4D" rating="2392" ratingOrigin="EGF : 2392" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000074" ffgLicence="" ffgLicenceStatus="" firstName="Andy" grade="11K" name="Li" participating="11111111111111111111" rank="11K" rating="951" ratingOrigin="EGF : 951" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="DUD" country="NZ" egfPin="00000041" ffgLicence="" ffgLicenceStatus="" firstName="Alexander" grade=" 9K" name="Heyes" participating="11111111111111111111" rank="9K" rating="1200" ratingOrigin="EGF : 1200" registeringStatus="FIN" smmsCorrection="0"/>
+</Players>
+<Games>
+<Game blackPlayer="GRIERSONCOLIN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="1" whitePlayer="ZHOUCHAOQUN"/>
+<Game blackPlayer="HEYESALEXANDER" handicap="7" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="2" whitePlayer="WATANABEAKI"/>
+<Game blackPlayer="LIANDY" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="3" whitePlayer="YANGAARON"/>
+<Game blackPlayer="WATANABEAKI" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="1" whitePlayer="GRIERSONCOLIN"/>
+<Game blackPlayer="HEYESALEXANDER" handicap="7" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="2" whitePlayer="ZHOUCHAOQUN"/>
+<Game blackPlayer="BAKERAN" handicap="3" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="3" whitePlayer="LIANDY"/>
+</Games>
+<ByePlayers>
+<ByePlayer player="BAKERAN" roundNumber="1"/>
+<ByePlayer player="YANGAARON" roundNumber="2"/>
+</ByePlayers>
+<TournamentParameterSet>
+<GeneralParameterSet bInternet="false" basicTime="60" beginDate="2021-05-08" canByoYomiTime="300" complementaryTimeSystem="STDBYOYOMI" director="Director name" endDate="2021-05-08" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="4D" genMMFloor="20K" genMMS2ValueAbsent="1" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="2" genRoundDownNBWMMS="true" komi="7.5" location="Location name" name="2021test NZ Digital Tournament" nbMovesCanTime="15" numberOfCategories="1" numberOfRounds="5" shortName="2021testNZD" size="19" stdByoYomiTime="30"/>
+<HandicapParameterSet hdBasedOnMMS="true" hdCeiling="9" hdCorrection="1" hdNoHdRankThreshold="1D"/>
+<PlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="MMS" number="1"/>
+<PlacementCriterion name="SOSM" number="2"/>
+<PlacementCriterion name="SOSOSM" number="3"/>
+<PlacementCriterion name="NULL" number="4"/>
+<PlacementCriterion name="NULL" number="5"/>
+<PlacementCriterion name="NULL" number="6"/>
+</PlacementCriteria>
+</PlacementParameterSet>
+<PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="NULL" paiMaAvoidMixingCategories="0" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="MID" paiMaDUDDUpperMode="MID" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDRANDOM" paiMaSeedSystem2="SPLITANDSLIP" paiSeAvoidSameGeo="100000000000" paiSeBarThresholdActive="true" paiSeDefSecCrit="100000000000" paiSeMinimizeHandicap="0" paiSeNbWinsThresholdActive="false" paiSePreferMMSDiffRatherThanSameClub="3" paiSePreferMMSDiffRatherThanSameCountry="1" paiSeRankThreshold="1D" paiStandardNX1Factor="0.5"/>
+<DPParameterSet displayClCol="true" displayCoCol="true" displayIndGamesInMatches="true" displayNPPlayers="false" displayNumCol="true" displayPlCol="true" gameFormat="full" playerSortType="name" showByePlayer="true" showNotFinallyRegisteredPlayers="true" showNotPairedPlayers="true" showNotParticipatingPlayers="false" showPlayerClub="true" showPlayerCountry="false" showPlayerGrade="true"/>
+<PublishParameterSet exportToLocalFile="true" htmlAutoScroll="false" print="true"/>
+</TournamentParameterSet>
+<TeamTournamentParameterSet>
+<TeamGeneralParameterSet teamSize="4"/>
+<TeamPlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="TEAMP" number="1"/>
+<PlacementCriterion name="BDW" number="2"/>
+<PlacementCriterion name="BDW3U" number="3"/>
+<PlacementCriterion name="BDW2U" number="4"/>
+<PlacementCriterion name="BDW1U" number="5"/>
+<PlacementCriterion name="MNR" number="6"/>
+</PlacementCriteria>
+</TeamPlacementParameterSet>
+</TeamTournamentParameterSet>
+</Tournament>

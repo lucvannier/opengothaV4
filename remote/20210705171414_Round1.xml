@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tournament externalIPAddress="71.205.221.224" fullVersionNumber="3.51.05" macAddress="18-C0-4D-6B-2D-85" privateTournament="false" runningMode="SAL" saveDT="20210705171414">
+<Players>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="10K" name="Doe0" participating="11111111111111111111" rank="10K" rating="1100" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="1D" name="Doe13" participating="11111111111111111111" rank="1D" rating="2100" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="1D" name="Doe18" participating="11111111111111111111" rank="1D" rating="1200" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="7K" name="Doe3" participating="11111111111111111111" rank="7K" rating="1400" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="1K" name="Doe9" participating="11111111111111111111" rank="1K" rating="1200" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="1D" name="Doe15" participating="11111111111111111111" rank="1D" rating="1200" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="3K" name="Doe7" participating="11111111111111111111" rank="3K" rating="1200" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="9K" name="Doe1" participating="11111111111111111111" rank="9K" rating="1200" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="5K" name="Doe5" participating="11111111111111111111" rank="5K" rating="1600" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="1D" name="Doe11" participating="11111111111111111111" rank="1D" rating="2100" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="4K" name="Doe6" participating="11111111111111111111" rank="4K" rating="1200" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="1D" name="Doe20" participating="11111111111111111111" rank="1D" rating="1200" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="1D" name="Doe17" participating="11111111111111111111" rank="1D" rating="1200" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="1D" name="Doe19" participating="11111111111111111111" rank="1D" rating="1200" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="1D" name="Doe10" participating="11111111111111111111" rank="1D" rating="2100" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="2K" name="Doe8" participating="11111111111111111111" rank="2K" rating="1200" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="1D" name="Doe16" participating="11111111111111111111" rank="1D" rating="1200" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="8K" name="Doe2" participating="11111111111111111111" rank="8K" rating="1300" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="1D" name="Doe14" participating="11111111111111111111" rank="1D" rating="2100" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="6K" name="Doe4" participating="11111111111111111111" rank="6K" rating="1500" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="John" grade="1D" name="Doe12" participating="11111111111111111111" rank="1D" rating="2100" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0"/>
+</Players>
+<Games>
+<Game blackPlayer="DOE1JOHN" handicap="9" knownColor="true" result="RESULT_UNKNOWN" roundNumber="1" tableNumber="1" whitePlayer="DOE11JOHN"/>
+<Game blackPlayer="DOE2JOHN" handicap="8" knownColor="true" result="RESULT_UNKNOWN" roundNumber="1" tableNumber="2" whitePlayer="DOE12JOHN"/>
+<Game blackPlayer="DOE3JOHN" handicap="7" knownColor="true" result="RESULT_UNKNOWN" roundNumber="1" tableNumber="3" whitePlayer="DOE13JOHN"/>
+<Game blackPlayer="DOE4JOHN" handicap="6" knownColor="true" result="RESULT_UNKNOWN" roundNumber="1" tableNumber="4" whitePlayer="DOE14JOHN"/>
+<Game blackPlayer="DOE5JOHN" handicap="5" knownColor="true" result="RESULT_UNKNOWN" roundNumber="1" tableNumber="5" whitePlayer="DOE15JOHN"/>
+<Game blackPlayer="DOE6JOHN" handicap="4" knownColor="true" result="RESULT_UNKNOWN" roundNumber="1" tableNumber="6" whitePlayer="DOE16JOHN"/>
+<Game blackPlayer="DOE7JOHN" handicap="3" knownColor="true" result="RESULT_UNKNOWN" roundNumber="1" tableNumber="7" whitePlayer="DOE17JOHN"/>
+<Game blackPlayer="DOE8JOHN" handicap="2" knownColor="true" result="RESULT_UNKNOWN" roundNumber="1" tableNumber="8" whitePlayer="DOE18JOHN"/>
+<Game blackPlayer="DOE9JOHN" handicap="1" knownColor="true" result="RESULT_UNKNOWN" roundNumber="1" tableNumber="9" whitePlayer="DOE19JOHN"/>
+<Game blackPlayer="DOE0JOHN" handicap="9" knownColor="true" result="RESULT_UNKNOWN" roundNumber="1" tableNumber="10" whitePlayer="DOE10JOHN"/>
+</Games>
+<TournamentParameterSet>
+<GeneralParameterSet bInternetGame="false" basicTime="12" beginDate="2021-07-05" canByoYomiTime="300" complementaryTimeSystem="SUDDENDEATH" director="Director name" endDate="2021-07-05" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="9D" genMMFloor="30K" genMMS2ValueAbsent="1" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="1" genRoundDownNBWMMS="true" komi="7.5" location="Location name" name="Tournament name" nbMovesCanTime="15" numberOfBZHGroups="1" numberOfCategories="3" numberOfRounds="5" shortName="Round1" size="9" stdByoYomiTime="30">
+<Categories>
+<Category lowerLimit="1D" number="1"/>
+<Category lowerLimit="5K" number="2"/>
+</Categories>
+</GeneralParameterSet>
+<HandicapParameterSet hdBase="RANK" hdCeiling="9" hdCorrection="0" hdNoHdRankThreshold="9D"/>
+<PlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="CAT" number="1"/>
+<PlacementCriterion name="NBW" number="2"/>
+<PlacementCriterion name="EXT" number="3"/>
+<PlacementCriterion name="EXR" number="4"/>
+<PlacementCriterion name="NULL" number="5"/>
+<PlacementCriterion name="NULL" number="6"/>
+</PlacementCriteria>
+</PlacementParameterSet>
+<PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="NULL" paiMaAvoidMixingCategories="20000000000000" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="MID" paiMaDUDDUpperMode="MID" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDRANDOM" paiMaSeedSystem2="SPLITANDFOLD" paiSeAvoidSameGeo="20000000000000" paiSeBarThresholdActive="true" paiSeDefSecCrit="20000000000000" paiSeMinimizeHandicap="20000000000000" paiSeNbWinsThresholdActive="true" paiSePreferMMSDiffRatherThanSameClub="3" paiSePreferMMSDiffRatherThanSameCountry="1" paiSeRankThreshold="1D" paiStandardNX1Factor="0.5"/>
+<DPParameterSet displayClCol="true" displayCoCol="true" displayIndGamesInMatches="true" displayNPPlayers="false" displayNumCol="true" displayPlCol="true" gameFormat="full" playerSortType="name" showByePlayer="true" showNotFinallyRegisteredPlayers="true" showNotPairedPlayers="true" showNotParticipatingPlayers="false" showPlayerClub="true" showPlayerCountry="false" showPlayerGrade="true"/>
+<PublishParameterSet exportToLocalFile="true" htmlAutoScroll="false" print="true"/>
+</TournamentParameterSet>
+<TeamTournamentParameterSet>
+<TeamGeneralParameterSet teamSize="4"/>
+<TeamPlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="TEAMP" number="1"/>
+<PlacementCriterion name="BDW" number="2"/>
+<PlacementCriterion name="BDW3U" number="3"/>
+<PlacementCriterion name="BDW2U" number="4"/>
+<PlacementCriterion name="BDW1U" number="5"/>
+<PlacementCriterion name="MNR" number="6"/>
+</PlacementCriteria>
+</TeamPlacementParameterSet>
+</TeamTournamentParameterSet>
+</Tournament>

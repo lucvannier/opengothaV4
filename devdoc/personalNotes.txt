@@ -1,0 +1,8 @@
+V3.51.04_ ++
+
+
+Todo
+Homogénéiser Options, Parameters, Settings
+Test de Preferences sous Linux/Mac. A t-on le Warning ?
+
+

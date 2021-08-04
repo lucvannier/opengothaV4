@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tournament dataVersion="201" externalIPAddress="121.74.87.58" fullVersionNumber="3.51" runningMode="SAL" saveDT="20210526210023">
+<Players>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000068" ffgLicence="" ffgLicenceStatus="" firstName="Mathew" grade="14K" name="Ma" participating="11111111111111111111" rank="14K" rating="732" ratingOrigin="EGF : 732" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AU-O" country="AU" egfPin="00000140" ffgLicence="" ffgLicenceStatus="" firstName="Colton" grade="15K" name="Tinkey" participating="11111111111111111111" rank="15K" rating="500" ratingOrigin="EGF : 500" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000089" ffgLicence="" ffgLicenceStatus="" firstName="Louis" grade=" 6K" name="Liu" participating="11111111111111111111" rank="6K" rating="1468" ratingOrigin="EGF : 1468" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="WLG" country="NZ" egfPin="00000067" ffgLicence="" ffgLicenceStatus="" firstName="Michael" grade="5K" name="Goltze" participating="11111111111111111111" rank="5K" rating="1521" ratingOrigin="EGF : 1521" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AU-B" country="AU" egfPin="00000133" ffgLicence="" ffgLicenceStatus="" firstName="Carlos" grade="3K" name="Alperin" participating="11111111111111111111" rank="3K" rating="1700" ratingOrigin="EGF : 1700" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AU-O" country="AU" egfPin="00000137" ffgLicence="" ffgLicenceStatus="" firstName="Barry" grade=" 8K" name="Allison" participating="11111111111111111111" rank="8K" rating="1300" ratingOrigin="EGF : 1300" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AU-B" country="AU" egfPin="00000135" ffgLicence="" ffgLicenceStatus="" firstName="Allan" grade=" 6K" name="Hunt" participating="11111111111111111111" rank="6K" rating="1500" ratingOrigin="EGF : 1500" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000075" ffgLicence="" ffgLicenceStatus="" firstName="Eric" grade=" 9K" name="Chen" participating="11111111111111111111" rank="9K" rating="1217" ratingOrigin="EGF : 1217" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="WLG" country="NZ" egfPin="00000136" ffgLicence="" ffgLicenceStatus="" firstName="Harald" grade=" 7K" name="Lin" participating="11111111111111111111" rank="7K" rating="1400" ratingOrigin="EGF : 1400" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="NZ-O" country="NZ" egfPin="00000138" ffgLicence="" ffgLicenceStatus="" firstName="Christopher" grade="7K" name="Riding" participating="11111111111111111111" rank="7K" rating="1300" ratingOrigin="EGF : 1300" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="NZ-O" country="NZ" egfPin="00000134" ffgLicence="" ffgLicenceStatus="" firstName="Keqi" grade=" 5K" name="Wu" participating="11111111111111111111" rank="5K" rating="1600" ratingOrigin="EGF : 1600" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="361 " country="NZ" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Tianze" grade="3K" name="Wang" participating="11111111111111111111" rank="3K" rating="1800" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000102" ffgLicence="" ffgLicenceStatus="" firstName="Yilin" grade="2D" name="Lu" participating="11111111111111111111" rank="2D" rating="2060" ratingOrigin="EGF : 2060" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000082" ffgLicence="" ffgLicenceStatus="" firstName="Yuhao" grade="11K" name="Pang" participating="11111111111111111111" rank="11K" rating="1039" ratingOrigin="EGF : 1039" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000113" ffgLicence="" ffgLicenceStatus="" firstName="Rafick" grade="4K" name="Koleejan" participating="11111111111111111111" rank="4K" rating="1557" ratingOrigin="EGF : 1557" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AU-O" country="AU" egfPin="00000139" ffgLicence="" ffgLicenceStatus="" firstName="Andrew" grade="9K" name="Morris" participating="11111111111111111111" rank="9K" rating="1100" ratingOrigin="EGF : 1100" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Chch" country="NZ" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Amy" grade="9K" name="Bian" participating="11111111111111111111" rank="9K" rating="1200" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000095" ffgLicence="" ffgLicenceStatus="" firstName="Andy" grade=" 2D" name="Wu" participating="11111111111111111111" rank="2D" rating="2091" ratingOrigin="EGF : 2091" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="361 " country="NZ" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Felix" grade="5K" name="Liu" participating="11111111111111111111" rank="5K" rating="1600" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AU-B" country="AU" egfPin="00000132" ffgLicence="" ffgLicenceStatus="" firstName="Horatio" grade=" 1K" name="Davis" participating="11111111111111111111" rank="1K" rating="2000" ratingOrigin="EGF : 2000" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="361" country="NZ" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Shucheng" grade="3K" name="Shen" participating="11111111111111111111" rank="3K" rating="1700" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="WLG" country="NZ" egfPin="00000020" ffgLicence="" ffgLicenceStatus="" firstName="Greg" grade="4K" name="Williams" participating="11111111111111111111" rank="4K" rating="1600" ratingOrigin="EGF : 1600" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="NZ-O" country="NZ" egfPin="00000141" ffgLicence="" ffgLicenceStatus="" firstName="Caleb" grade="16K" name="Murray" participating="11111111111111111111" rank="16K" rating="400" ratingOrigin="EGF : 400" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="361 " country="NZ" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Yudi" grade="12K" name="Wu" participating="11111111111111111111" rank="12K" rating="900" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Akl" country="NZ" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Teri" grade="16K" name="Cheung" participating="11111111111111111111" rank="16K" rating="400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AU-O" country="AU" egfPin="00000142" ffgLicence="" ffgLicenceStatus="" firstName="Lucas" grade="20K" name="Liu" participating="11111111111111111111" rank="20K" rating="100" ratingOrigin="EGF : 100" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="361 " country="NZ" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Claire" grade="20K" name="Wu" participating="11111111111111111111" rank="20K" rating="100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="AU" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Rye" grade="18K" name="Senjen" participating="11111111111111111111" rank="18K" rating="200" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="NZ-O" country="NZ" egfPin="00000143" ffgLicence="" ffgLicenceStatus="" firstName="Will" grade=" 1K" name="Gui" participating="11111111111111111111" rank="1K" rating="2000" ratingOrigin="EGF : 2000" registeringStatus="FIN" smmsCorrection="0"/>
+</Players>
+<Games>
+<Game blackPlayer="DAVISHORATIO" handicap="1" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="1" whitePlayer="WUANDY"/>
+<Game blackPlayer="GUIWILL" handicap="1" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="2" whitePlayer="LUYILIN"/>
+<Game blackPlayer="ALPERINCARLOS" handicap="1" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="3" whitePlayer="WANGTIANZE"/>
+<Game blackPlayer="KOLEEJANRAFICK" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="4" whitePlayer="LIUFELIX"/>
+<Game blackPlayer="WUKEQI" handicap="1" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="5" whitePlayer="SHENSHUCHENG"/>
+<Game blackPlayer="LIULOUIS" handicap="1" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="6" whitePlayer="WILLIAMSGREG"/>
+<Game blackPlayer="CHENERIC" handicap="1" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="7" whitePlayer="ALLISONBARRY"/>
+<Game blackPlayer="HUNTALLAN" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="8" whitePlayer="GOLTZEMICHAEL"/>
+<Game blackPlayer="RIDINGCHRISTOPHER" handicap="1" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="9" whitePlayer="LINHARALD"/>
+<Game blackPlayer="PANGYUHAO" handicap="1" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="10" whitePlayer="MORRISANDREW"/>
+<Game blackPlayer="LIULUCAS" handicap="3" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="11" whitePlayer="MURRAYCALEB"/>
+<Game blackPlayer="SENJENRYE" handicap="5" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="12" whitePlayer="MAMATHEW"/>
+<Game blackPlayer="TINKEYCOLTON" handicap="4" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="13" whitePlayer="WUYUDI"/>
+<Game blackPlayer="WUCLAIRE" handicap="3" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="14" whitePlayer="CHEUNGTERI"/>
+<Game blackPlayer="SHENSHUCHENG" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="1" whitePlayer="ALPERINCARLOS"/>
+<Game blackPlayer="DAVISHORATIO" handicap="3" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="2" whitePlayer="LUYILIN"/>
+<Game blackPlayer="GUIWILL" handicap="3" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="3" whitePlayer="WUANDY"/>
+<Game blackPlayer="WANGTIANZE" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="4" whitePlayer="WILLIAMSGREG"/>
+<Game blackPlayer="GOLTZEMICHAEL" handicap="1" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="5" whitePlayer="KOLEEJANRAFICK"/>
+<Game blackPlayer="LIUFELIX" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="6" whitePlayer="WUKEQI"/>
+<Game blackPlayer="MORRISANDREW" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="7" whitePlayer="CHENERIC"/>
+<Game blackPlayer="LIULOUIS" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="8" whitePlayer="RIDINGCHRISTOPHER"/>
+<Game blackPlayer="LINHARALD" handicap="1" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="9" whitePlayer="HUNTALLAN"/>
+<Game blackPlayer="SENJENRYE" handicap="2" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="10" whitePlayer="CHEUNGTERI"/>
+<Game blackPlayer="PANGYUHAO" handicap="3" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="11" whitePlayer="ALLISONBARRY"/>
+<Game blackPlayer="MAMATHEW" handicap="3" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="12" whitePlayer="WUYUDI"/>
+<Game blackPlayer="WUCLAIRE" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="13" whitePlayer="LIULUCAS"/>
+<Game blackPlayer="MURRAYCALEB" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="14" whitePlayer="TINKEYCOLTON"/>
+</Games>
+<ByePlayers>
+<ByePlayer player="BIANAMY" roundNumber="1"/>
+</ByePlayers>
+<TournamentParameterSet>
+<GeneralParameterSet bInternet="false" basicTime="60" beginDate="2021-05-17" canByoYomiTime="300" complementaryTimeSystem="STDBYOYOMI" director="Colin Grierson" endDate="2021-06-28" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="9D" genMMFloor="30K" genMMS2ValueAbsent="1" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="2" genRoundDownNBWMMS="true" komi="7.5" location="Cloud" name="2021 NZ Digital Handicap" nbMovesCanTime="15" numberOfCategories="4" numberOfRounds="6" shortName="2021 Digital Handicap 2" size="19" stdByoYomiTime="30">
+<Categories>
+<Category lowerLimit="3K" number="1"/>
+<Category lowerLimit="5K" number="2"/>
+<Category lowerLimit="10K" number="3"/>
+</Categories>
+</GeneralParameterSet>
+<HandicapParameterSet hdBasedOnMMS="true" hdCeiling="9" hdCorrection="0" hdNoHdRankThreshold="9D"/>
+<PlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="CAT" number="1"/>
+<PlacementCriterion name="NBW" number="2"/>
+<PlacementCriterion name="EXT" number="3"/>
+<PlacementCriterion name="EXR" number="4"/>
+<PlacementCriterion name="NULL" number="5"/>
+<PlacementCriterion name="NULL" number="6"/>
+</PlacementCriteria>
+</PlacementParameterSet>
+<PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="NULL" paiMaAvoidMixingCategories="20000000000000" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="MID" paiMaDUDDUpperMode="MID" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDRANDOM" paiMaSeedSystem2="SPLITANDFOLD" paiSeAvoidSameGeo="20000000000000" paiSeBarThresholdActive="true" paiSeDefSecCrit="20000000000000" paiSeMinimizeHandicap="20000000000000" paiSeNbWinsThresholdActive="true" paiSePreferMMSDiffRatherThanSameClub="3" paiSePreferMMSDiffRatherThanSameCountry="1" paiSeRankThreshold="1D" paiStandardNX1Factor="0.5"/>
+<DPParameterSet displayClCol="true" displayCoCol="true" displayIndGamesInMatches="true" displayNPPlayers="false" displayNumCol="true" displayPlCol="true" gameFormat="full" playerSortType="name" showByePlayer="true" showNotFinallyRegisteredPlayers="true" showNotPairedPlayers="true" showNotParticipatingPlayers="false" showPlayerClub="true" showPlayerCountry="false" showPlayerGrade="true"/>
+<PublishParameterSet exportToLocalFile="true" htmlAutoScroll="false" print="true"/>
+</TournamentParameterSet>
+<TeamTournamentParameterSet>
+<TeamGeneralParameterSet teamSize="4"/>
+<TeamPlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="TEAMP" number="1"/>
+<PlacementCriterion name="BDW" number="2"/>
+<PlacementCriterion name="BDW3U" number="3"/>
+<PlacementCriterion name="BDW2U" number="4"/>
+<PlacementCriterion name="BDW1U" number="5"/>
+<PlacementCriterion name="MNR" number="6"/>
+</PlacementCriteria>
+</TeamPlacementParameterSet>
+</TeamTournamentParameterSet>
+</Tournament>

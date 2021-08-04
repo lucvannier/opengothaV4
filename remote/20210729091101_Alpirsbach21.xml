@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tournament dataVersion="201" externalIPAddress="46.223.162.114" fullVersionNumber="3.51" runningMode="SAL" saveDT="20210729091101">
+    <Players>
+        <Player agaExpirationDate="" agaId="" club="KA" country="DE" egfPin="10233245" ffgLicence="" ffgLicenceStatus="" firstName="Peter" grade=" 3D" name="Stackelberg" participating="11111111111111111111" rank="3D" rating="2355" ratingOrigin="EGF : 2355" registeringStatus="PRE" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="Zug" country="CH" egfPin="18733627" ffgLicence="" ffgLicenceStatus="" firstName="Flavio" grade="11K" name="Stadelmann" participating="11111111111111111111" rank="11K" rating="1031" ratingOrigin="EGF : 1031" registeringStatus="PRE" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="FR" country="DE" egfPin="10233487" ffgLicence="" ffgLicenceStatus="" firstName="Michael" grade="11K" name="Berking" participating="11111111111111111111" rank="11K" rating="953" ratingOrigin="EGF : 953" registeringStatus="PRE" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="FDS" country="DE" egfPin="19562983" ffgLicence="" ffgLicenceStatus="" firstName="Dorian" grade="8K" name="Flug" participating="11111111111111111111" rank="8K" rating="1300" ratingOrigin="MAN" registeringStatus="PRE" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="TR" country="DE" egfPin="16501562" ffgLicence="" ffgLicenceStatus="" firstName="Marc_Oliver" grade=" 6K" name="Rieger" participating="11111111111111111111" rank="5K" rating="1661" ratingOrigin="EGF : 1661" registeringStatus="PRE" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="Zug" country="CH" egfPin="19486401" ffgLicence="" ffgLicenceStatus="" firstName="Tamara" grade="13K" name="Tkáčová" participating="11111111111111111111" rank="13K" rating="880" ratingOrigin="EGF : 880" registeringStatus="PRE" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="KA" country="DE" egfPin="17825709" ffgLicence="" ffgLicenceStatus="" firstName="Wilhelm" grade="19K" name="Buehler" participating="00000000000000000000" rank="19K" rating="239" ratingOrigin="EGF : 239" registeringStatus="PRE" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="FDS" country="DE" egfPin="10298365" ffgLicence="" ffgLicenceStatus="" firstName="Peter" grade=" 3K" name="Nuebel" participating="00000000000000000000" rank="2K" rating="1852" ratingOrigin="EGF : 1852" registeringStatus="PRE" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="Zug" country="CH" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Alica" grade="25K" name="Baumann-Toth" participating="11111111111111111111" rank="25K" rating="-400" ratingOrigin="INI" registeringStatus="PRE" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="FDS" country="DE" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Helga" grade="20K" name="Bösel" participating="00000000000000000000" rank="20K" rating="100" ratingOrigin="INI" registeringStatus="PRE" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="TR" country="DE" egfPin="16574547" ffgLicence="" ffgLicenceStatus="" firstName="Mei" grade="13K" name="Wang" participating="11111111111111111111" rank="13K" rating="841" ratingOrigin="EGF : 841" registeringStatus="PRE" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="FDS" country="DE" egfPin="19625012" ffgLicence="" ffgLicenceStatus="" firstName="Rudolf" grade="20K" name="Petschl" participating="00000000000000000000" rank="20K" rating="63" ratingOrigin="EGF : 63" registeringStatus="PRE" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="FDS" country="DE" egfPin="19533987" ffgLicence="" ffgLicenceStatus="" firstName="Christa" grade="20K" name="Seidl" participating="00000000000000000000" rank="20K" rating="118" ratingOrigin="EGF : 118" registeringStatus="PRE" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="Len" country="CH" egfPin="14874145" ffgLicence="" ffgLicenceStatus="" firstName="Dieter" grade="3K" name="Stender" participating="11111111111111111111" rank="3K" rating="1771" ratingOrigin="EGF : 1771" registeringStatus="PRE" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="KA" country="DE" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Xingyi" grade="9K" name="Zhang" participating="11111111111111111111" rank="9K" rating="1200" ratingOrigin="INI" registeringStatus="PRE" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="FDS" country="DE" egfPin="19337428" ffgLicence="" ffgLicenceStatus="" firstName="Gunther" grade="15K" name="Schmid" participating="00000000000000000000" rank="15K" rating="600" ratingOrigin="MAN" registeringStatus="PRE" smmsCorrection="0"/>
+    </Players>
+    <Games/>
+    <TournamentParameterSet>
+        <GeneralParameterSet bInternet="false" basicTime="60" beginDate="2021-08-14" canByoYomiTime="300" complementaryTimeSystem="STDBYOYOMI" director="Wilhelm Buehler" endDate="2021-08-15" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="4D" genMMFloor="20K" genMMS2ValueAbsent="1" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="2" genRoundDownNBWMMS="true" komi="7.5" location="Alpirsbach" name="Alpirsbach" nbMovesCanTime="15" numberOfCategories="1" numberOfRounds="4" shortName="Alpirsbach21" size="19" stdByoYomiTime="30"/>
+        <HandicapParameterSet hdBasedOnMMS="true" hdCeiling="9" hdCorrection="1" hdNoHdRankThreshold="1D"/>
+        <PlacementParameterSet>
+            <PlacementCriteria>
+                <PlacementCriterion name="MMS" number="1"/>
+                <PlacementCriterion name="SOSM" number="2"/>
+                <PlacementCriterion name="SOSOSM" number="3"/>
+                <PlacementCriterion name="NULL" number="4"/>
+                <PlacementCriterion name="NULL" number="5"/>
+                <PlacementCriterion name="NULL" number="6"/>
+            </PlacementCriteria>
+        </PlacementParameterSet>
+        <PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="NULL" paiMaAvoidMixingCategories="0" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="MID" paiMaDUDDUpperMode="MID" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDRANDOM" paiMaSeedSystem2="SPLITANDSLIP" paiSeAvoidSameGeo="100000000000" paiSeBarThresholdActive="true" paiSeDefSecCrit="100000000000" paiSeMinimizeHandicap="0" paiSeNbWinsThresholdActive="false" paiSePreferMMSDiffRatherThanSameClub="3" paiSePreferMMSDiffRatherThanSameCountry="1" paiSeRankThreshold="1D" paiStandardNX1Factor="0.5"/>
+        <DPParameterSet displayClCol="true" displayCoCol="true" displayIndGamesInMatches="true" displayNPPlayers="false" displayNumCol="true" displayPlCol="true" gameFormat="full" playerSortType="rank" showByePlayer="true" showNotFinallyRegisteredPlayers="true" showNotPairedPlayers="true" showNotParticipatingPlayers="false" showPlayerClub="true" showPlayerCountry="false" showPlayerGrade="true"/>
+        <PublishParameterSet exportToLocalFile="true" htmlAutoScroll="false" print="true"/>
+    </TournamentParameterSet>
+    <TeamTournamentParameterSet>
+        <TeamGeneralParameterSet teamSize="4"/>
+        <TeamPlacementParameterSet>
+            <PlacementCriteria>
+                <PlacementCriterion name="TEAMP" number="1"/>
+                <PlacementCriterion name="BDW" number="2"/>
+                <PlacementCriterion name="BDW3U" number="3"/>
+                <PlacementCriterion name="BDW2U" number="4"/>
+                <PlacementCriterion name="BDW1U" number="5"/>
+                <PlacementCriterion name="MNR" number="6"/>
+            </PlacementCriteria>
+        </TeamPlacementParameterSet>
+    </TeamTournamentParameterSet>
+</Tournament>

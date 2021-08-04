@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tournament externalIPAddress="159.146.28.101" fullVersionNumber="3.51.08" macAddress="0A-00-27-00-00-08" privateTournament="true" runningMode="SAL" saveDT="20210609140614">
+<Players>
+<Player agaExpirationDate="" agaId="" club="Ada" country="TR" egfPin="17233183" ffgLicence="" ffgLicenceStatus="" firstName="Cagdas" grade="3D" name="Yeloglu" participating="11111111111111111111" rank="3D" rating="2300" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="Cagdasyel"/>
+<Player agaExpirationDate="" agaId="" club="Ist" country="TR" egfPin="18050560" ffgLicence="" ffgLicenceStatus="" firstName="Engin" grade="2K" name="Yazilan" participating="11111111111111111111" rank="2K" rating="1900" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="enginy"/>
+<Player agaExpirationDate="" agaId="" club="Ist" country="TR" egfPin="19650136" ffgLicence="" ffgLicenceStatus="" firstName="Ozgur" grade="9K" name="Iscimen" participating="11111111111111111111" rank="9K" rating="1200" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="oziscimen"/>
+<Player agaExpirationDate="" agaId="" club="Izm" country="TR" egfPin="19237064" ffgLicence="" ffgLicenceStatus="" firstName="Daghan Uras" grade="17K" name="Ozal" participating="00100000000000000000" rank="17K" rating="400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="DaghanOzal"/>
+<Player agaExpirationDate="" agaId="" club="Ank" country="TR" egfPin="18798967" ffgLicence="" ffgLicenceStatus="" firstName="Gokce Kaan" grade="13K" name="Aslan" participating="11111111111111111111" rank="13K" rating="800" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="Gokceaslan"/>
+<Player agaExpirationDate="" agaId="" club="Can" country="TR" egfPin="16962264" ffgLicence="" ffgLicenceStatus="" firstName="Kaan" grade="4D" name="Malcok" participating="11111111111111111111" rank="4D" rating="2400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="kaanm"/>
+<Player agaExpirationDate="" agaId="" club="Ank" country="TR" egfPin="19613968" ffgLicence="" ffgLicenceStatus="" firstName="Bade" grade="25K" name="Eren" participating="11111111111111111111" rank="25K" rating="-400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="toothless"/>
+<Player agaExpirationDate="" agaId="" club="Ist" country="TR" egfPin="17625938" ffgLicence="" ffgLicenceStatus="" firstName="Serap" grade="2K" name="Suleymanoglu" participating="11111111111111111111" rank="2K" rating="1900" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="seraps"/>
+<Player agaExpirationDate="" agaId="" club="Ist" country="TR" egfPin="18398193" ffgLicence="" ffgLicenceStatus="" firstName="Berke" grade="8K" name="Uner" participating="11111111111111111111" rank="8K" rating="1300" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="berkeuner"/>
+<Player agaExpirationDate="" agaId="" club="Ank" country="TR" egfPin="18701034" ffgLicence="" ffgLicenceStatus="" firstName="Alper" grade="1D" name="Sulak" participating="11111111111111111111" rank="1D" rating="2100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="AlperSulak"/>
+<Player agaExpirationDate="" agaId="" club="Kirk" country="TR" egfPin="19701231" ffgLicence="" ffgLicenceStatus="" firstName="Tugra" grade="15K" name="Aral" participating="11111111111111111111" rank="15K" rating="600" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="tugraaral"/>
+<Player agaExpirationDate="" agaId="" club="Ist" country="TR" egfPin="14825052" ffgLicence="" ffgLicenceStatus="" firstName="Dogac" grade="2D" name="Kose" participating="11111111111111111111" rank="2D" rating="2200" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="DogacK"/>
+<Player agaExpirationDate="" agaId="" club="Akd" country="TR" egfPin="15274149" ffgLicence="" ffgLicenceStatus="" firstName="Deniz Ekim" grade="1D" name="Aydin" participating="11111111111111111111" rank="1D" rating="2100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="ekima"/>
+<Player agaExpirationDate="" agaId="" club="Akd" country="TR" egfPin="14686243" ffgLicence="" ffgLicenceStatus="" firstName="Yilmaz" grade="3K" name="Calik" participating="11111111111111111111" rank="3K" rating="1800" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="yilmazcali"/>
+<Player agaExpirationDate="" agaId="" club="Izm" country="TR" egfPin="19213073" ffgLicence="" ffgLicenceStatus="" firstName="Anil" grade="19K" name="Demircinik" participating="10111111111111111111" rank="19K" rating="200" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="AnilD"/>
+<Player agaExpirationDate="" agaId="" club="Ist" country="TR" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Erkan" grade="15K" name="Iscimen" participating="11111111111111111111" rank="15K" rating="600" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="erkanisci"/>
+<Player agaExpirationDate="" agaId="" club="Osm" country="TR" egfPin="16349509" ffgLicence="" ffgLicenceStatus="" firstName="Kadir" grade="10K" name="Sahin" participating="11101111111111111111" rank="10K" rating="1100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="Qadirsahin"/>
+<Player agaExpirationDate="" agaId="" club="Ist" country="TR" egfPin="19650609" ffgLicence="" ffgLicenceStatus="" firstName="Mira" grade="14K" name="Duzgungu" participating="01000000000000000000" rank="14K" rating="700" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="MiraD"/>
+<Player agaExpirationDate="" agaId="" club="Ist" country="TR" egfPin="15998015" ffgLicence="" ffgLicenceStatus="" firstName="Hakan" grade="1K" name="Cemrek" participating="11111111111111111111" rank="1K" rating="2000" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="hakancemr"/>
+<Player agaExpirationDate="" agaId="" club="Ank" country="TR" egfPin="19549970" ffgLicence="" ffgLicenceStatus="" firstName="Ekin Yaz" grade="14K" name="Ciniviz" participating="11111111111111111111" rank="14K" rating="700" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="EkinYaz"/>
+<Player agaExpirationDate="" agaId="" club="Ank" country="TR" egfPin="19649971" ffgLicence="" ffgLicenceStatus="" firstName="Deniz Emre" grade="17K" name="Ozturk" participating="11111111111111111111" rank="17K" rating="400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="Deniz117"/>
+<Player agaExpirationDate="" agaId="" club="Izm" country="TR" egfPin="19301183" ffgLicence="" ffgLicenceStatus="" firstName="Cihan Mert" grade="10K" name="Deveden" participating="11000000000000000000" rank="10K" rating="1100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="CihanMertD"/>
+<Player agaExpirationDate="" agaId="" club="Ant" country="TR" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Tugba" grade="25K" name="Sadak" participating="11111111111111111111" rank="25K" rating="-400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="tugbasadak"/>
+<Player agaExpirationDate="" agaId="" club="Ist" country="TR" egfPin="19513329" ffgLicence="" ffgLicenceStatus="" firstName="Semih" grade="6K" name="Bilki" participating="11111111111111111111" rank="6K" rating="1500" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="semihblk"/>
+<Player agaExpirationDate="" agaId="" club="Ist" country="TR" egfPin="19662610" ffgLicence="" ffgLicenceStatus="" firstName="Arya" grade="15K" name="Duzgungu" participating="10100000000000000000" rank="15K" rating="600" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="AryaD"/>
+<Player agaExpirationDate="" agaId="" club="Ist" country="TR" egfPin="17601804" ffgLicence="" ffgLicenceStatus="" firstName="Mehmet Ali" grade="9K" name="Goktas" participating="11111111111111111111" rank="9K" rating="1200" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="mehmetali"/>
+<Player agaExpirationDate="" agaId="" club="Ank" country="TR" egfPin="17374423" ffgLicence="" ffgLicenceStatus="" firstName="Ugur" grade="3D" name="Arikan" participating="11111111111111111111" rank="3D" rating="2300" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="Ugurarikan"/>
+<Player agaExpirationDate="" agaId="" club="Esk" country="TR" egfPin="16298832" ffgLicence="" ffgLicenceStatus="" firstName="Ulas" grade="4D" name="Oren" participating="11111111111111111111" rank="4D" rating="2400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="ulasoren"/>
+<Player agaExpirationDate="" agaId="" club="Ank" country="TR" egfPin="19233280" ffgLicence="" ffgLicenceStatus="" firstName="Sarp Ege" grade="9K" name="Yilmaz" participating="11111111111111111111" rank="9K" rating="1200" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="SarpEge"/>
+<Player agaExpirationDate="" agaId="" club="Pisa" country="IT" egfPin="17998849" ffgLicence="" ffgLicenceStatus="" firstName="Luciano" grade="7K" name="Barbati" participating="11111111111111111111" rank="7K" rating="1400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="bluciano"/>
+<Player agaExpirationDate="" agaId="" club="Roma" country="IT" egfPin="16974903" ffgLicence="" ffgLicenceStatus="" firstName="Sofia" grade="1K" name="Malatesta" participating="11111111111111111111" rank="1K" rating="2000" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0" userName="Sofiam"/>
+</Players>
+<Games>
+<Game blackPlayer="ORENULAS" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="1" whitePlayer="SULAKALPER"/>
+<Game blackPlayer="AYDINDENIZEKIM" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="2" whitePlayer="MALCOKKAAN"/>
+<Game blackPlayer="CEMREKHAKAN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="3" whitePlayer="YELOGLUCAGDAS"/>
+<Game blackPlayer="ARIKANUGUR" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="4" whitePlayer="KOSEDOGAC"/>
+<Game blackPlayer="SULEYMANOGLUSERAP" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="5" whitePlayer="MALATESTASOFIA"/>
+<Game blackPlayer="CALIKYILMAZ" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="6" whitePlayer="YAZILANENGIN"/>
+<Game blackPlayer="BARBATILUCIANO" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="7" whitePlayer="BILKISEMIH"/>
+<Game blackPlayer="YILMAZSARPEGE" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="8" whitePlayer="UNERBERKE"/>
+<Game blackPlayer="ISCIMENOZGUR" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="9" whitePlayer="DEVEDENCIHANMERT"/>
+<Game blackPlayer="SAHINKADIR" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="10" whitePlayer="GOKTASMEHMETALI"/>
+<Game blackPlayer="ARALTUGRA" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="11" whitePlayer="ASLANGOKCEKAAN"/>
+<Game blackPlayer="CINIVIZEKINYAZ" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="12" whitePlayer="DUZGUNGUARYA"/>
+<Game blackPlayer="OZTURKDENIZEMRE" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="13" whitePlayer="ISCIMENERKAN"/>
+<Game blackPlayer="DEMIRCINIKANIL" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="14" whitePlayer="ERENBADE"/>
+<Game blackPlayer="MALCOKKAAN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="5" tableNumber="1" whitePlayer="KOSEDOGAC"/>
+<Game blackPlayer="YELOGLUCAGDAS" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="5" tableNumber="2" whitePlayer="ARIKANUGUR"/>
+<Game blackPlayer="CEMREKHAKAN" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="5" tableNumber="3" whitePlayer="ORENULAS"/>
+<Game blackPlayer="SULAKALPER" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="5" tableNumber="4" whitePlayer="YAZILANENGIN"/>
+<Game blackPlayer="SULEYMANOGLUSERAP" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="5" tableNumber="5" whitePlayer="AYDINDENIZEKIM"/>
+<Game blackPlayer="CALIKYILMAZ" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="5" tableNumber="6" whitePlayer="MALATESTASOFIA"/>
+<Game blackPlayer="UNERBERKE" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="5" tableNumber="7" whitePlayer="BILKISEMIH"/>
+<Game blackPlayer="ISCIMENOZGUR" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="5" tableNumber="8" whitePlayer="BARBATILUCIANO"/>
+<Game blackPlayer="GOKTASMEHMETALI" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="5" tableNumber="9" whitePlayer="YILMAZSARPEGE"/>
+<Game blackPlayer="SAHINKADIR" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="5" tableNumber="10" whitePlayer="ISCIMENERKAN"/>
+<Game blackPlayer="ASLANGOKCEKAAN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="5" tableNumber="11" whitePlayer="SADAKTUGBA"/>
+<Game blackPlayer="CINIVIZEKINYAZ" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="5" tableNumber="12" whitePlayer="ARALTUGRA"/>
+<Game blackPlayer="ERENBADE" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="5" tableNumber="13" whitePlayer="OZTURKDENIZEMRE"/>
+<Game blackPlayer="MALCOKKAAN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="1" whitePlayer="SULAKALPER"/>
+<Game blackPlayer="ARIKANUGUR" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="2" whitePlayer="ORENULAS"/>
+<Game blackPlayer="AYDINDENIZEKIM" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="3" whitePlayer="KOSEDOGAC"/>
+<Game blackPlayer="YELOGLUCAGDAS" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="4" whitePlayer="SULEYMANOGLUSERAP"/>
+<Game blackPlayer="CEMREKHAKAN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="5" whitePlayer="CALIKYILMAZ"/>
+<Game blackPlayer="MALATESTASOFIA" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="6" whitePlayer="YAZILANENGIN"/>
+<Game blackPlayer="BILKISEMIH" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="7" whitePlayer="ISCIMENOZGUR"/>
+<Game blackPlayer="BARBATILUCIANO" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="8" whitePlayer="GOKTASMEHMETALI"/>
+<Game blackPlayer="ARALTUGRA" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="9" whitePlayer="YILMAZSARPEGE"/>
+<Game blackPlayer="UNERBERKE" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="10" whitePlayer="ASLANGOKCEKAAN"/>
+<Game blackPlayer="ISCIMENERKAN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="11" whitePlayer="ERENBADE"/>
+<Game blackPlayer="CINIVIZEKINYAZ" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="12" whitePlayer="DEMIRCINIKANIL"/>
+<Game blackPlayer="SADAKTUGBA" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="13" whitePlayer="OZTURKDENIZEMRE"/>
+<Game blackPlayer="ORENULAS" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="1" whitePlayer="MALCOKKAAN"/>
+<Game blackPlayer="AYDINDENIZEKIM" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="2" whitePlayer="ARIKANUGUR"/>
+<Game blackPlayer="KOSEDOGAC" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="3" whitePlayer="YELOGLUCAGDAS"/>
+<Game blackPlayer="SULEYMANOGLUSERAP" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="4" whitePlayer="SULAKALPER"/>
+<Game blackPlayer="MALATESTASOFIA" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="5" whitePlayer="CEMREKHAKAN"/>
+<Game blackPlayer="YAZILANENGIN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="6" whitePlayer="BARBATILUCIANO"/>
+<Game blackPlayer="BILKISEMIH" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="7" whitePlayer="CALIKYILMAZ"/>
+<Game blackPlayer="YILMAZSARPEGE" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="8" whitePlayer="ISCIMENOZGUR"/>
+<Game blackPlayer="GOKTASMEHMETALI" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="9" whitePlayer="UNERBERKE"/>
+<Game blackPlayer="ASLANGOKCEKAAN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="10" whitePlayer="SAHINKADIR"/>
+<Game blackPlayer="DUZGUNGUARYA" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="11" whitePlayer="ARALTUGRA"/>
+<Game blackPlayer="ISCIMENERKAN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="12" whitePlayer="CINIVIZEKINYAZ"/>
+<Game blackPlayer="OZALDAGHANURAS" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="13" whitePlayer="OZTURKDENIZEMRE"/>
+<Game blackPlayer="SADAKTUGBA" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="14" whitePlayer="DEMIRCINIKANIL"/>
+<Game blackPlayer="YELOGLUCAGDAS" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="1" whitePlayer="ORENULAS"/>
+<Game blackPlayer="MALCOKKAAN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="2" whitePlayer="ARIKANUGUR"/>
+<Game blackPlayer="KOSEDOGAC" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="3" whitePlayer="MALATESTASOFIA"/>
+<Game blackPlayer="SULAKALPER" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="4" whitePlayer="CEMREKHAKAN"/>
+<Game blackPlayer="YAZILANENGIN" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="5" whitePlayer="AYDINDENIZEKIM"/>
+<Game blackPlayer="CALIKYILMAZ" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="6" whitePlayer="SULEYMANOGLUSERAP"/>
+<Game blackPlayer="BILKISEMIH" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="7" whitePlayer="YILMAZSARPEGE"/>
+<Game blackPlayer="UNERBERKE" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="8" whitePlayer="BARBATILUCIANO"/>
+<Game blackPlayer="ISCIMENOZGUR" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="9" whitePlayer="SAHINKADIR"/>
+<Game blackPlayer="DEVEDENCIHANMERT" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="10" whitePlayer="GOKTASMEHMETALI"/>
+<Game blackPlayer="ASLANGOKCEKAAN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="11" whitePlayer="ISCIMENERKAN"/>
+<Game blackPlayer="DUZGUNGUMIRA" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="12" whitePlayer="CINIVIZEKINYAZ"/>
+<Game blackPlayer="OZTURKDENIZEMRE" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="13" whitePlayer="ARALTUGRA"/>
+<Game blackPlayer="ERENBADE" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="14" whitePlayer="SADAKTUGBA"/>
+</Games>
+<ByePlayers>
+<ByePlayer player="SADAKTUGBA" roundNumber="1"/>
+<ByePlayer player="ERENBADE" roundNumber="3"/>
+<ByePlayer player="DEMIRCINIKANIL" roundNumber="5"/>
+</ByePlayers>
+<TournamentParameterSet>
+<GeneralParameterSet bInternetGame="false" basicTime="60" beginDate="2021-06-05" canByoYomiTime="300" complementaryTimeSystem="STDBYOYOMI" director="Ilyas Tanguler" endDate="2021-06-06" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="1D" genMMFloor="20K" genMMS2ValueAbsent="1" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="2" genRoundDownNBWMMS="true" komi="7.5" location="Adana" name="9. Adana Go Turnuvası" nbMovesCanTime="15" numberOfBZHGroups="1" numberOfCategories="1" numberOfRounds="5" shortName="adago9" size="19" stdByoYomiTime="30"/>
+<HandicapParameterSet hdBase="MMS" hdCeiling="9" hdCorrection="0" hdNoHdRankThreshold="30K"/>
+<PlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="MMS" number="1"/>
+<PlacementCriterion name="SOSM" number="2"/>
+<PlacementCriterion name="SOSOSM" number="3"/>
+<PlacementCriterion name="NULL" number="4"/>
+<PlacementCriterion name="NULL" number="5"/>
+<PlacementCriterion name="NULL" number="6"/>
+</PlacementCriteria>
+</PlacementParameterSet>
+<PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="NULL" paiMaAvoidMixingCategories="0" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="TOP" paiMaDUDDUpperMode="BOT" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDRANDOM" paiMaSeedSystem2="SPLITANDFOLD" paiSeAvoidSameGeo="100000000000" paiSeBarThresholdActive="true" paiSeDefSecCrit="100000000000" paiSeMinimizeHandicap="0" paiSeNbWinsThresholdActive="false" paiSePreferMMSDiffRatherThanSameClub="3" paiSePreferMMSDiffRatherThanSameCountry="1" paiSeRankThreshold="1D" paiStandardNX1Factor="0.5"/>
+<DPParameterSet displayClCol="true" displayCoCol="true" displayIndGamesInMatches="true" displayNPPlayers="false" displayNumCol="true" displayPlCol="true" gameFormat="full" playerSortType="name" showByePlayer="true" showNotFinallyRegisteredPlayers="true" showNotPairedPlayers="true" showNotParticipatingPlayers="false" showPlayerClub="true" showPlayerCountry="false" showPlayerGrade="true"/>
+<PublishParameterSet exportToLocalFile="true" htmlAutoScroll="false" print="true"/>
+</TournamentParameterSet>
+<TeamTournamentParameterSet>
+<TeamGeneralParameterSet teamSize="4"/>
+<TeamPlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="TEAMP" number="1"/>
+<PlacementCriterion name="BDW" number="2"/>
+<PlacementCriterion name="BDW3U" number="3"/>
+<PlacementCriterion name="BDW2U" number="4"/>
+<PlacementCriterion name="BDW1U" number="5"/>
+<PlacementCriterion name="MNR" number="6"/>
+</PlacementCriteria>
+</TeamPlacementParameterSet>
+</TeamTournamentParameterSet>
+</Tournament>

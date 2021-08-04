@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tournament dataVersion="201" externalIPAddress="121.74.87.58" fullVersionNumber="3.51" runningMode="SAL" saveDT="20210515125026">
+<Players>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000131" ffgLicence="" ffgLicenceStatus="" firstName="Bill" grade=" 1D" name="Gu" participating="11111111111111111111" rank="1D" rating="2100" ratingOrigin="EGF : 2100" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AU-B" country="AU" egfPin="00000132" ffgLicence="" ffgLicenceStatus="" firstName="Horatio" grade=" 1K" name="Davis" participating="11111111111111111111" rank="1K" rating="2000" ratingOrigin="EGF : 2000" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000012" ffgLicence="" ffgLicenceStatus="" firstName="Kevin" grade=" 5D" name="Yang" participating="11111111111111111111" rank="5D" rating="2500" ratingOrigin="EGF : 2500" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AU-O" country="AU" egfPin="00000144" ffgLicence="" ffgLicenceStatus="" firstName="David" grade=" 2D" name="Bofinger" participating="11111111111111111111" rank="2D" rating="2200" ratingOrigin="EGF : 2200" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="WLG" country="NZ" egfPin="00000128" ffgLicence="" ffgLicenceStatus="" firstName="Chahine" grade=" 5D" name="Koleejan" participating="11111111111111111111" rank="5D" rating="2500" ratingOrigin="EGF : 2500" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000115" ffgLicence="" ffgLicenceStatus="" firstName="Jin" grade=" 4D" name="Luo" participating="11111111111111111111" rank="4D" rating="2354" ratingOrigin="EGF : 2354" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="WLG" country="NZ" egfPin="00000062" ffgLicence="" ffgLicenceStatus="" firstName="Mitsutaka" grade=" 1D" name="Sato" participating="11111111111111111111" rank="1D" rating="2092" ratingOrigin="EGF : 2092" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AU-O" country="AU" egfPin="00000129" ffgLicence="" ffgLicenceStatus="" firstName="James" grade=" 2D" name="Kaaden" participating="11111111111111111111" rank="2D" rating="2200" ratingOrigin="EGF : 2200" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AU-P" country="AU" egfPin="00000130" ffgLicence="" ffgLicenceStatus="" firstName="Kevin" grade=" 1D" name="Chu" participating="11111111111111111111" rank="1D" rating="2100" ratingOrigin="EGF : 2100" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000127" ffgLicence="" ffgLicenceStatus="" firstName="Ken" grade=" 5D" name="Xie" participating="11111111111111111111" rank="5D" rating="2500" ratingOrigin="EGF : 2500" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000100" ffgLicence="" ffgLicenceStatus="" firstName="Moses" grade=" 5D" name="Fan" participating="11111111111111111111" rank="5D" rating="2501" ratingOrigin="EGF : 2501" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="WLG" country="NZ" egfPin="00000066" ffgLicence="" ffgLicenceStatus="" firstName="Yen-Ting" grade=" 1D" name="Liu" participating="11111111111111111111" rank="1D" rating="2100" ratingOrigin="EGF : 2100" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000002" ffgLicence="" ffgLicenceStatus="" firstName="Colin" grade=" 4D" name="Grierson" participating="11111111111111111111" rank="4D" rating="2373" ratingOrigin="EGF : 2373" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Sydn" country="AU" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Amy" grade="5D" name="Song" participating="11111111111111111111" rank="5D" rating="2500" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000096" ffgLicence="" ffgLicenceStatus="" firstName="Zixiang" grade=" 5D" name="Lei" participating="11111111111111111111" rank="5D" rating="2456" ratingOrigin="EGF : 2456" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000124" ffgLicence="" ffgLicenceStatus="" firstName="Culture" grade=" 1D" name="Guo" participating="11111111111111111111" rank="1D" rating="2077" ratingOrigin="EGF : 2077" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="AKL" country="NZ" egfPin="00000092" ffgLicence="" ffgLicenceStatus="" firstName="Jae" grade=" 1D" name="Kim" participating="11111111111111111111" rank="1D" rating="2147" ratingOrigin="EGF : 2147" registeringStatus="FIN" smmsCorrection="0"/>
+</Players>
+<Games/>
+<TournamentParameterSet>
+<GeneralParameterSet bInternet="false" basicTime="60" beginDate="2021-05-17" canByoYomiTime="300" complementaryTimeSystem="STDBYOYOMI" director="Colin Grierson" endDate="2021-06-28" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="9D" genMMFloor="30K" genMMS2ValueAbsent="1" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="2" genRoundDownNBWMMS="true" komi="7.5" location="In the cloud" name="2021 NZ Digital" nbMovesCanTime="15" numberOfCategories="1" numberOfRounds="6" shortName="2021 NZ Digital Open" size="19" stdByoYomiTime="30"/>
+<HandicapParameterSet hdBasedOnMMS="false" hdCeiling="0" hdCorrection="0" hdNoHdRankThreshold="30K"/>
+<PlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="NBW" number="1"/>
+<PlacementCriterion name="SOSW" number="2"/>
+<PlacementCriterion name="SOSOSW" number="3"/>
+<PlacementCriterion name="NULL" number="4"/>
+<PlacementCriterion name="NULL" number="5"/>
+<PlacementCriterion name="NULL" number="6"/>
+</PlacementCriteria>
+</PlacementParameterSet>
+<PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="Rating" paiMaAvoidMixingCategories="0" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="MID" paiMaDUDDUpperMode="MID" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDSLIP" paiMaSeedSystem2="SPLITANDSLIP" paiSeAvoidSameGeo="0" paiSeBarThresholdActive="true" paiSeDefSecCrit="20000000000000" paiSeMinimizeHandicap="0" paiSeNbWinsThresholdActive="true" paiSePreferMMSDiffRatherThanSameClub="0" paiSePreferMMSDiffRatherThanSameCountry="0" paiSeRankThreshold="30K" paiStandardNX1Factor="0.5"/>
+<DPParameterSet displayClCol="true" displayCoCol="true" displayIndGamesInMatches="true" displayNPPlayers="false" displayNumCol="true" displayPlCol="true" gameFormat="short" playerSortType="name" showByePlayer="true" showNotFinallyRegisteredPlayers="true" showNotPairedPlayers="true" showNotParticipatingPlayers="false" showPlayerClub="true" showPlayerCountry="false" showPlayerGrade="true"/>
+<PublishParameterSet exportToLocalFile="true" htmlAutoScroll="false" print="true"/>
+</TournamentParameterSet>
+<TeamTournamentParameterSet>
+<TeamGeneralParameterSet teamSize="4"/>
+<TeamPlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="TEAMP" number="1"/>
+<PlacementCriterion name="BDW" number="2"/>
+<PlacementCriterion name="BDW3U" number="3"/>
+<PlacementCriterion name="BDW2U" number="4"/>
+<PlacementCriterion name="BDW1U" number="5"/>
+<PlacementCriterion name="MNR" number="6"/>
+</PlacementCriteria>
+</TeamPlacementParameterSet>
+</TeamTournamentParameterSet>
+</Tournament>

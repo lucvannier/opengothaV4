@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tournament dataVersion="201" externalIPAddress="90.70.0.74" fullVersionNumber="3.51" runningMode="SAL" saveDT="20210711200501">
+<Players>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="_" grade="1D" name="Edwinselan" participating="11111111111111111111" rank="1D" rating="2100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="_" grade="3D" name="R0n1n" participating="11111111111111111111" rank="3D" rating="2300" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="_" grade="6K" name="Savagnin" participating="11111111111111111111" rank="6K" rating="1500" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="_" grade="7K" name="Celidan" participating="11111111111111111111" rank="7K" rating="1400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+</Players>
+<Games>
+<Game blackPlayer="EDWINSELAN_" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="1" whitePlayer="R0N1N_"/>
+<Game blackPlayer="CELIDAN_" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="2" whitePlayer="SAVAGNIN_"/>
+</Games>
+<Teams>
+<Team teamName="Disney" teamNumber="1">
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="1"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="1"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="2"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="2"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="3"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="3"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="4"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="4"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="5"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="5"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="6"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="6"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="7"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="7"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="8"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="8"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="9"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="9"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="10"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="10"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="11"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="11"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="12"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="12"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="13"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="13"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="14"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="14"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="15"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="15"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="16"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="16"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="17"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="17"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="18"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="18"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="19"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="19"/>
+<Board boardNumber="1" player="EDWINSELAN_" roundNumber="20"/>
+<Board boardNumber="2" player="SAVAGNIN_" roundNumber="20"/>
+</Team>
+<Team teamName="Pixar" teamNumber="2">
+<Board boardNumber="1" player="R0N1N_" roundNumber="1"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="1"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="2"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="2"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="3"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="3"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="4"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="4"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="5"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="5"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="6"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="6"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="7"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="7"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="8"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="8"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="9"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="9"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="10"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="10"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="11"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="11"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="12"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="12"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="13"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="13"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="14"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="14"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="15"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="15"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="16"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="16"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="17"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="17"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="18"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="18"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="19"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="19"/>
+<Board boardNumber="1" player="R0N1N_" roundNumber="20"/>
+<Board boardNumber="2" player="CELIDAN_" roundNumber="20"/>
+</Team>
+</Teams>
+<TournamentParameterSet>
+<GeneralParameterSet bInternet="false" basicTime="60" beginDate="2021-08-06" canByoYomiTime="300" complementaryTimeSystem="STDBYOYOMI" director="Savagnin" endDate="2021-08-06" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="9D" genMMFloor="30K" genMMS2ValueAbsent="1" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="2" genRoundDownNBWMMS="true" komi="7.5" location="KGS" name="Tournoi des 9" nbMovesCanTime="15" numberOfCategories="1" numberOfRounds="5" shortName="Rengo Star" size="19" stdByoYomiTime="30"/>
+<HandicapParameterSet hdBasedOnMMS="false" hdCeiling="0" hdCorrection="0" hdNoHdRankThreshold="30K"/>
+<PlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="NBW" number="1"/>
+<PlacementCriterion name="DC" number="2"/>
+<PlacementCriterion name="NULL" number="3"/>
+<PlacementCriterion name="NULL" number="4"/>
+<PlacementCriterion name="NULL" number="5"/>
+<PlacementCriterion name="NULL" number="6"/>
+</PlacementCriteria>
+</PlacementParameterSet>
+<PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="Rating" paiMaAvoidMixingCategories="0" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="MID" paiMaDUDDUpperMode="MID" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDSLIP" paiMaSeedSystem2="SPLITANDSLIP" paiSeAvoidSameGeo="0" paiSeBarThresholdActive="true" paiSeDefSecCrit="20000000000000" paiSeMinimizeHandicap="0" paiSeNbWinsThresholdActive="true" paiSePreferMMSDiffRatherThanSameClub="0" paiSePreferMMSDiffRatherThanSameCountry="0" paiSeRankThreshold="30K" paiStandardNX1Factor="0.5"/>
+<DPParameterSet displayClCol="true" displayCoCol="true" displayIndGamesInMatches="true" displayNPPlayers="false" displayNumCol="true" displayPlCol="true" gameFormat="short" playerSortType="name" showByePlayer="true" showNotFinallyRegisteredPlayers="true" showNotPairedPlayers="true" showNotParticipatingPlayers="false" showPlayerClub="true" showPlayerCountry="false" showPlayerGrade="true"/>
+<PublishParameterSet exportToLocalFile="true" htmlAutoScroll="false" print="true"/>
+</TournamentParameterSet>
+<TeamTournamentParameterSet>
+<TeamGeneralParameterSet teamSize="2"/>
+<TeamPlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="TEAMP" number="1"/>
+<PlacementCriterion name="NULL" number="2"/>
+<PlacementCriterion name="NULL" number="3"/>
+<PlacementCriterion name="NULL" number="4"/>
+<PlacementCriterion name="NULL" number="5"/>
+<PlacementCriterion name="NULL" number="6"/>
+</PlacementCriteria>
+</TeamPlacementParameterSet>
+</TeamTournamentParameterSet>
+</Tournament>

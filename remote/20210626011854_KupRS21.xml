@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tournament dataVersion="201" externalIPAddress="94.189.128.146" fullVersionNumber="3.51" runningMode="SAL" saveDT="20210626011854">
+    <Players>
+        <Player agaExpirationDate="" agaId="" club="BGmp" country="RS" egfPin="10337085" ffgLicence="" ffgLicenceStatus="" firstName="Milos" grade=" 4D" name="Bojanic" participating="11111111111111111111" rank="3D" rating="2296" ratingOrigin="EGF : 2296" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiPR" country="RS" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Jovana" grade="25K" name="Todorovic" participating="11111111111111111111" rank="25K" rating="-400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiSt" country="RS" egfPin="17837765" ffgLicence="" ffgLicenceStatus="" firstName="Vuk" grade=" 3K" name="Dusanic" participating="11111111111111111111" rank="3K" rating="1798" ratingOrigin="EGF : 1798" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="GkNS" country="RS" egfPin="19437385" ffgLicence="" ffgLicenceStatus="" firstName="Andrej" grade=" 8K" name="Skala" participating="11111111111111111111" rank="8K" rating="1289" ratingOrigin="EGF : 1289" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="KGRa" country="RS" egfPin="10301082" ffgLicence="" ffgLicenceStatus="" firstName="Zoran" grade=" 2D" name="Jankovic" participating="11111111111111111111" rank="3D" rating="2288" ratingOrigin="EGF : 2288" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="BGbg" country="RS" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Ilija" grade="25K" name="Stojkovic" participating="11111111111111111111" rank="25K" rating="-400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="BGbg" country="RS" egfPin="10350109" ffgLicence="" ffgLicenceStatus="" firstName="Aleksandar" grade=" 1D" name="Milosevic" participating="11111111111111111111" rank="1D" rating="2024" ratingOrigin="EGF : 2024" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiPr" country="RS" egfPin="19013390" ffgLicence="" ffgLicenceStatus="" firstName="Filip" grade="18K" name="Todorovic" participating="11111111111111111111" rank="19K" rating="193" ratingOrigin="EGF : 193" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="BGbg" country="RS" egfPin="10413260" ffgLicence="" ffgLicenceStatus="" firstName="Mihajlo" grade=" 1D" name="Andjelic" participating="11111111111111111111" rank="1D" rating="2086" ratingOrigin="EGF : 2086" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiPr" country="RS" egfPin="18533196" ffgLicence="" ffgLicenceStatus="" firstName="Dusanka" grade=" 5K" name="Todorovic" participating="11111111111111111111" rank="5K" rating="1536" ratingOrigin="EGF : 1536" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiPr" country="RS" egfPin="19086386" ffgLicence="" ffgLicenceStatus="" firstName="Ilija" grade="14K" name="Ilic" participating="11111111111111111111" rank="15K" rating="634" ratingOrigin="EGF : 634" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiPr" country="RS" egfPin="18098586" ffgLicence="" ffgLicenceStatus="" firstName="Kosta" grade="19K" name="Ilic" participating="11111111111111111111" rank="19K" rating="217" ratingOrigin="EGF : 217" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiSt" country="RS" egfPin="10649507" ffgLicence="" ffgLicenceStatus="" firstName="Dusan" grade=" 7D" name="Mitic" participating="11111111111111111111" rank="6D" rating="2640" ratingOrigin="EGF : 2640" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiPr" country="RS" egfPin="10349130" ffgLicence="" ffgLicenceStatus="" firstName="Mladen" grade=" 1D" name="Lilic" participating="11111111111111111111" rank="1D" rating="2016" ratingOrigin="EGF : 2016" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiPr" country="RS" egfPin="18033862" ffgLicence="" ffgLicenceStatus="" firstName="Andjela" grade="10K" name="Ivkovic" participating="11111111111111111111" rank="10K" rating="623" ratingOrigin="EGF : 623" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="Mysh" country="RS" egfPin="19401382" ffgLicence="" ffgLicenceStatus="" firstName="Milos" grade="6K" name="Stojanovic" participating="11111111111111111111" rank="6K" rating="1267" ratingOrigin="EGF : 1267" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiPr" country="RS" egfPin="17833354" ffgLicence="" ffgLicenceStatus="" firstName="Nikola" grade="14K" name="Ilic" participating="11111111111111111111" rank="15K" rating="613" ratingOrigin="EGF : 613" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiSt" country="RS" egfPin="10313083" ffgLicence="" ffgLicenceStatus="" firstName="Mijodrag" grade=" 5D" name="Stankovic" participating="11111111111111111111" rank="3D" rating="2340" ratingOrigin="EGF : 2340" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiPr" country="RS" egfPin="18098861" ffgLicence="" ffgLicenceStatus="" firstName="Sara" grade=" 5K" name="Djordjevic" participating="11111111111111111111" rank="5K" rating="1642" ratingOrigin="EGF : 1642" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="BGbg" country="RS" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Srdjan" grade="8K" name="Mitrovic" participating="11111111111111111111" rank="8K" rating="-400" ratingOrigin="MAN" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="KGRa" country="RS" egfPin="10374089" ffgLicence="" ffgLicenceStatus="" firstName="Nikola" grade=" 4D" name="Jevtic" participating="11111111111111111111" rank="2D" rating="2205" ratingOrigin="EGF : 2205" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiPr" country="RS" egfPin="10337107" ffgLicence="" ffgLicenceStatus="" firstName="Zeljko" grade=" 4K" name="Veselinovic" participating="11111111111111111111" rank="4K" rating="1566" ratingOrigin="EGF : 1566" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiPr" country="RS" egfPin="10350120" ffgLicence="" ffgLicenceStatus="" firstName="Dragan" grade=" 5K" name="Ilic" participating="11111111111111111111" rank="6K" rating="1467" ratingOrigin="EGF : 1467" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="KGRa" country="RS" egfPin="10601503" ffgLicence="" ffgLicenceStatus="" firstName="Ivan" grade=" 1K" name="Dubakovic" participating="11111111111111111111" rank="1D" rating="2119" ratingOrigin="EGF : 2119" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiPr" country="RS" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Ilija" grade="25K" name="Radojkovic" participating="11111111111111111111" rank="25K" rating="-400" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+        <Player agaExpirationDate="" agaId="" club="NiPr" country="RS" egfPin="18986913" ffgLicence="" ffgLicenceStatus="" firstName="Ilija" grade="11K" name="Dokic" participating="11111111111111111111" rank="11K" rating="1008" ratingOrigin="EGF : 1008" registeringStatus="FIN" smmsCorrection="0"/>
+    </Players>
+    <Games/>
+    <TournamentParameterSet>
+        <GeneralParameterSet bInternet="false" basicTime="60" beginDate="2021-06-26" canByoYomiTime="300" complementaryTimeSystem="STDBYOYOMI" director="mihajlo" endDate="2021-06-27" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="1D" genMMFloor="30K" genMMS2ValueAbsent="1" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="2" genRoundDownNBWMMS="true" komi="7.5" location="Belgrade" name="KupSrbije2021" nbMovesCanTime="15" numberOfCategories="1" numberOfRounds="6" shortName="KupRS21" size="19" stdByoYomiTime="30"/>
+        <HandicapParameterSet hdBasedOnMMS="true" hdCeiling="9" hdCorrection="1" hdNoHdRankThreshold="1D"/>
+        <PlacementParameterSet>
+            <PlacementCriteria>
+                <PlacementCriterion name="MMS" number="1"/>
+                <PlacementCriterion name="SOSM" number="2"/>
+                <PlacementCriterion name="SOSOSM" number="3"/>
+                <PlacementCriterion name="NULL" number="4"/>
+                <PlacementCriterion name="NULL" number="5"/>
+                <PlacementCriterion name="NULL" number="6"/>
+            </PlacementCriteria>
+        </PlacementParameterSet>
+        <PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="NULL" paiMaAvoidMixingCategories="0" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="MID" paiMaDUDDUpperMode="MID" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDRANDOM" paiMaSeedSystem2="SPLITANDSLIP" paiSeAvoidSameGeo="100000000000" paiSeBarThresholdActive="true" paiSeDefSecCrit="100000000000" paiSeMinimizeHandicap="0" paiSeNbWinsThresholdActive="false" paiSePreferMMSDiffRatherThanSameClub="3" paiSePreferMMSDiffRatherThanSameCountry="1" paiSeRankThreshold="1D" paiStandardNX1Factor="0.5"/>
+        <DPParameterSet displayClCol="true" displayCoCol="true" displayIndGamesInMatches="true" displayNPPlayers="false" displayNumCol="true" displayPlCol="true" gameFormat="full" playerSortType="name" showByePlayer="true" showNotFinallyRegisteredPlayers="true" showNotPairedPlayers="true" showNotParticipatingPlayers="false" showPlayerClub="true" showPlayerCountry="false" showPlayerGrade="true"/>
+        <PublishParameterSet exportToLocalFile="true" htmlAutoScroll="false" print="true"/>
+    </TournamentParameterSet>
+    <TeamTournamentParameterSet>
+        <TeamGeneralParameterSet teamSize="4"/>
+        <TeamPlacementParameterSet>
+            <PlacementCriteria>
+                <PlacementCriterion name="TEAMP" number="1"/>
+                <PlacementCriterion name="BDW" number="2"/>
+                <PlacementCriterion name="BDW3U" number="3"/>
+                <PlacementCriterion name="BDW2U" number="4"/>
+                <PlacementCriterion name="BDW1U" number="5"/>
+                <PlacementCriterion name="MNR" number="6"/>
+            </PlacementCriteria>
+        </TeamPlacementParameterSet>
+    </TeamTournamentParameterSet>
+</Tournament>

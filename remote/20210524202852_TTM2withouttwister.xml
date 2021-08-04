@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tournament dataVersion="201" externalIPAddress="203.165.205.24" fullVersionNumber="3.51" runningMode="SAL" saveDT="20210524202852">
+<Players>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Journeystep1#9567" grade="3D" name="Journeystep1" participating="11111111111111111111" rank="3D" rating="2300" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Gerarduv#6655" grade="2K" name="Gerarduv" participating="11111111111111111111" rank="2K" rating="1900" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Lilylionmane#1870" grade="1D" name="Lilylionmane" participating="11111111111111111111" rank="1D" rating="2100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Tw1ster#3758" grade="3D" name="Maxim" participating="10000000000000000000" rank="3D" rating="2300" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Hbayer#4983" grade="3D" name="Hbayer" participating="11111111111111111111" rank="3D" rating="2300" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Rikodlc#6969" grade="1D" name="Hirohiigo" participating="11111111111111111111" rank="1D" rating="2100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Killerducky#9146" grade="1K" name="Killerducky" participating="11111111111111111111" rank="1K" rating="2000" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Xenmious #5275" grade="2K" name="Benjaminshuit" participating="11111111111111111111" rank="2K" rating="1900" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Timezombi#6781" grade="1K" name="Pannic" participating="11111111111111111111" rank="1K" rating="2000" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Dan_1234#3652" grade="1D" name="Dan_1234" participating="11111111111111111111" rank="1D" rating="2100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Spooke2b#2909" grade="3D" name="Evetrain" participating="11111111111111111111" rank="3D" rating="2300" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="4adun#3096" grade="1D" name="4adun" participating="11111111111111111111" rank="1D" rating="2100" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Galdian#8907" grade="2D" name="Smokdiplodok" participating="11111111111111111111" rank="2D" rating="2200" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Bianca#6513" grade="3D" name="Cerelith" participating="11111111111111111111" rank="3D" rating="2300" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Nimyu#4908" grade="1K" name="Nimyu" participating="11111111111111111111" rank="1K" rating="2000" ratingOrigin="INI" registeringStatus="FIN" smmsCorrection="0"/>
+</Players>
+<Games>
+<Game blackPlayer="BENJAMINSHUITXENMIOUS#5275" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="1" whitePlayer="4ADUN4ADUN#3096"/>
+<Game blackPlayer="DAN_1234DAN_1234#3652" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="2" whitePlayer="CERELITHBIANCA#6513"/>
+<Game blackPlayer="EVETRAINSPOOKE2B#2909" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="3" whitePlayer="HIROHIIGORIKODLC#6969"/>
+<Game blackPlayer="HBAYERHBAYER#4983" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="4" whitePlayer="LILYLIONMANELILYLIONMANE#1870"/>
+<Game blackPlayer="JOURNEYSTEP1JOURNEYSTEP1#9567" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="5" whitePlayer="KILLERDUCKYKILLERDUCKY#9146"/>
+<Game blackPlayer="MAXIMTW1STER#3758" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="6" whitePlayer="NIMYUNIMYU#4908"/>
+<Game blackPlayer="SMOKDIPLODOKGALDIAN#8907" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="7" whitePlayer="PANNICTIMEZOMBI#6781"/>
+<Game blackPlayer="JOURNEYSTEP1JOURNEYSTEP1#9567" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="6" tableNumber="1" whitePlayer="HBAYERHBAYER#4983"/>
+<Game blackPlayer="CERELITHBIANCA#6513" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="6" tableNumber="2" whitePlayer="BENJAMINSHUITXENMIOUS#5275"/>
+<Game blackPlayer="4ADUN4ADUN#3096" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="6" tableNumber="3" whitePlayer="EVETRAINSPOOKE2B#2909"/>
+<Game blackPlayer="HIROHIIGORIKODLC#6969" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="6" tableNumber="4" whitePlayer="KILLERDUCKYKILLERDUCKY#9146"/>
+<Game blackPlayer="GERARDUVGERARDUV#6655" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="6" tableNumber="5" whitePlayer="SMOKDIPLODOKGALDIAN#8907"/>
+<Game blackPlayer="DAN_1234DAN_1234#3652" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="6" tableNumber="6" whitePlayer="LILYLIONMANELILYLIONMANE#1870"/>
+<Game blackPlayer="PANNICTIMEZOMBI#6781" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="6" tableNumber="7" whitePlayer="NIMYUNIMYU#4908"/>
+<Game blackPlayer="EVETRAINSPOOKE2B#2909" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="5" tableNumber="1" whitePlayer="CERELITHBIANCA#6513"/>
+<Game blackPlayer="BENJAMINSHUITXENMIOUS#5275" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="5" tableNumber="2" whitePlayer="JOURNEYSTEP1JOURNEYSTEP1#9567"/>
+<Game blackPlayer="KILLERDUCKYKILLERDUCKY#9146" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="5" tableNumber="3" whitePlayer="HBAYERHBAYER#4983"/>
+<Game blackPlayer="SMOKDIPLODOKGALDIAN#8907" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="5" tableNumber="4" whitePlayer="HIROHIIGORIKODLC#6969"/>
+<Game blackPlayer="GERARDUVGERARDUV#6655" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="5" tableNumber="5" whitePlayer="4ADUN4ADUN#3096"/>
+<Game blackPlayer="NIMYUNIMYU#4908" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="5" tableNumber="6" whitePlayer="DAN_1234DAN_1234#3652"/>
+<Game blackPlayer="LILYLIONMANELILYLIONMANE#1870" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="5" tableNumber="7" whitePlayer="PANNICTIMEZOMBI#6781"/>
+<Game blackPlayer="CERELITHBIANCA#6513" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="1" whitePlayer="JOURNEYSTEP1JOURNEYSTEP1#9567"/>
+<Game blackPlayer="EVETRAINSPOOKE2B#2909" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="2" whitePlayer="GERARDUVGERARDUV#6655"/>
+<Game blackPlayer="HBAYERHBAYER#4983" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="3" whitePlayer="HIROHIIGORIKODLC#6969"/>
+<Game blackPlayer="BENJAMINSHUITXENMIOUS#5275" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="4" whitePlayer="SMOKDIPLODOKGALDIAN#8907"/>
+<Game blackPlayer="KILLERDUCKYKILLERDUCKY#9146" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="5" whitePlayer="LILYLIONMANELILYLIONMANE#1870"/>
+<Game blackPlayer="4ADUN4ADUN#3096" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="6" whitePlayer="NIMYUNIMYU#4908"/>
+<Game blackPlayer="PANNICTIMEZOMBI#6781" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="7" whitePlayer="DAN_1234DAN_1234#3652"/>
+<Game blackPlayer="HBAYERHBAYER#4983" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="9" tableNumber="1" whitePlayer="4ADUN4ADUN#3096"/>
+<Game blackPlayer="JOURNEYSTEP1JOURNEYSTEP1#9567" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="9" tableNumber="2" whitePlayer="HIROHIIGORIKODLC#6969"/>
+<Game blackPlayer="KILLERDUCKYKILLERDUCKY#9146" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="9" tableNumber="3" whitePlayer="CERELITHBIANCA#6513"/>
+<Game blackPlayer="SMOKDIPLODOKGALDIAN#8907" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="9" tableNumber="4" whitePlayer="LILYLIONMANELILYLIONMANE#1870"/>
+<Game blackPlayer="DAN_1234DAN_1234#3652" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="9" tableNumber="5" whitePlayer="BENJAMINSHUITXENMIOUS#5275"/>
+<Game blackPlayer="NIMYUNIMYU#4908" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="9" tableNumber="6" whitePlayer="GERARDUVGERARDUV#6655"/>
+<Game blackPlayer="EVETRAINSPOOKE2B#2909" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="9" tableNumber="7" whitePlayer="PANNICTIMEZOMBI#6781"/>
+<Game blackPlayer="JOURNEYSTEP1JOURNEYSTEP1#9567" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="1" whitePlayer="EVETRAINSPOOKE2B#2909"/>
+<Game blackPlayer="CERELITHBIANCA#6513" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="2" whitePlayer="HBAYERHBAYER#4983"/>
+<Game blackPlayer="SMOKDIPLODOKGALDIAN#8907" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="3" whitePlayer="KILLERDUCKYKILLERDUCKY#9146"/>
+<Game blackPlayer="HIROHIIGORIKODLC#6969" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="4" whitePlayer="NIMYUNIMYU#4908"/>
+<Game blackPlayer="LILYLIONMANELILYLIONMANE#1870" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="5" whitePlayer="GERARDUVGERARDUV#6655"/>
+<Game blackPlayer="PANNICTIMEZOMBI#6781" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="6" whitePlayer="BENJAMINSHUITXENMIOUS#5275"/>
+<Game blackPlayer="DAN_1234DAN_1234#3652" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="7" whitePlayer="4ADUN4ADUN#3096"/>
+<Game blackPlayer="BENJAMINSHUITXENMIOUS#5275" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="8" tableNumber="1" whitePlayer="EVETRAINSPOOKE2B#2909"/>
+<Game blackPlayer="HBAYERHBAYER#4983" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="8" tableNumber="2" whitePlayer="SMOKDIPLODOKGALDIAN#8907"/>
+<Game blackPlayer="JOURNEYSTEP1JOURNEYSTEP1#9567" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="8" tableNumber="3" whitePlayer="4ADUN4ADUN#3096"/>
+<Game blackPlayer="HIROHIIGORIKODLC#6969" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="8" tableNumber="4" whitePlayer="DAN_1234DAN_1234#3652"/>
+<Game blackPlayer="LILYLIONMANELILYLIONMANE#1870" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="8" tableNumber="5" whitePlayer="CERELITHBIANCA#6513"/>
+<Game blackPlayer="NIMYUNIMYU#4908" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="8" tableNumber="6" whitePlayer="KILLERDUCKYKILLERDUCKY#9146"/>
+<Game blackPlayer="PANNICTIMEZOMBI#6781" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="8" tableNumber="7" whitePlayer="GERARDUVGERARDUV#6655"/>
+<Game blackPlayer="HBAYERHBAYER#4983" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="1" whitePlayer="BENJAMINSHUITXENMIOUS#5275"/>
+<Game blackPlayer="CERELITHBIANCA#6513" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="2" whitePlayer="SMOKDIPLODOKGALDIAN#8907"/>
+<Game blackPlayer="NIMYUNIMYU#4908" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="3" whitePlayer="EVETRAINSPOOKE2B#2909"/>
+<Game blackPlayer="GERARDUVGERARDUV#6655" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="4" whitePlayer="JOURNEYSTEP1JOURNEYSTEP1#9567"/>
+<Game blackPlayer="4ADUN4ADUN#3096" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="5" whitePlayer="LILYLIONMANELILYLIONMANE#1870"/>
+<Game blackPlayer="KILLERDUCKYKILLERDUCKY#9146" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="6" whitePlayer="DAN_1234DAN_1234#3652"/>
+<Game blackPlayer="HIROHIIGORIKODLC#6969" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="7" whitePlayer="PANNICTIMEZOMBI#6781"/>
+<Game blackPlayer="EVETRAINSPOOKE2B#2909" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="7" tableNumber="1" whitePlayer="HBAYERHBAYER#4983"/>
+<Game blackPlayer="SMOKDIPLODOKGALDIAN#8907" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="7" tableNumber="2" whitePlayer="JOURNEYSTEP1JOURNEYSTEP1#9567"/>
+<Game blackPlayer="4ADUN4ADUN#3096" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="7" tableNumber="3" whitePlayer="CERELITHBIANCA#6513"/>
+<Game blackPlayer="HIROHIIGORIKODLC#6969" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="7" tableNumber="4" whitePlayer="BENJAMINSHUITXENMIOUS#5275"/>
+<Game blackPlayer="DAN_1234DAN_1234#3652" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="7" tableNumber="5" whitePlayer="GERARDUVGERARDUV#6655"/>
+<Game blackPlayer="LILYLIONMANELILYLIONMANE#1870" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="7" tableNumber="6" whitePlayer="NIMYUNIMYU#4908"/>
+<Game blackPlayer="KILLERDUCKYKILLERDUCKY#9146" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="7" tableNumber="7" whitePlayer="PANNICTIMEZOMBI#6781"/>
+</Games>
+<ByePlayers>
+<ByePlayer player="GERARDUVGERARDUV#6655" roundNumber="1"/>
+</ByePlayers>
+<TournamentParameterSet>
+<GeneralParameterSet bInternet="false" basicTime="60" beginDate="2021-03-08" canByoYomiTime="300" complementaryTimeSystem="STDBYOYOMI" director="Shogi Harbour" endDate="2021-05-08" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="9D" genMMFloor="30K" genMMS2ValueAbsent="1" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="2" genRoundDownNBWMMS="true" komi="7.5" location="81Dojo" name="Tourney-To Masters 2 (Series 3)" nbMovesCanTime="15" numberOfCategories="1" numberOfRounds="9" shortName="TTM2 without twister" size="19" stdByoYomiTime="30"/>
+<HandicapParameterSet hdBasedOnMMS="false" hdCeiling="0" hdCorrection="0" hdNoHdRankThreshold="30K"/>
+<PlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="NBW" number="1"/>
+<PlacementCriterion name="SOSW-1" number="2"/>
+<PlacementCriterion name="SOSOSW" number="3"/>
+<PlacementCriterion name="DC" number="4"/>
+<PlacementCriterion name="NULL" number="5"/>
+<PlacementCriterion name="NULL" number="6"/>
+</PlacementCriteria>
+</PlacementParameterSet>
+<PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="Rating" paiMaAvoidMixingCategories="0" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="MID" paiMaDUDDUpperMode="MID" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDSLIP" paiMaSeedSystem2="SPLITANDSLIP" paiSeAvoidSameGeo="0" paiSeBarThresholdActive="true" paiSeDefSecCrit="20000000000000" paiSeMinimizeHandicap="0" paiSeNbWinsThresholdActive="true" paiSePreferMMSDiffRatherThanSameClub="0" paiSePreferMMSDiffRatherThanSameCountry="0" paiSeRankThreshold="30K" paiStandardNX1Factor="0.5"/>
+<DPParameterSet displayClCol="true" displayCoCol="true" displayIndGamesInMatches="true" displayNPPlayers="false" displayNumCol="true" displayPlCol="true" gameFormat="short" playerSortType="name" showByePlayer="true" showNotFinallyRegisteredPlayers="true" showNotPairedPlayers="true" showNotParticipatingPlayers="false" showPlayerClub="true" showPlayerCountry="false" showPlayerGrade="true"/>
+<PublishParameterSet exportToLocalFile="true" htmlAutoScroll="false" print="true"/>
+</TournamentParameterSet>
+<TeamTournamentParameterSet>
+<TeamGeneralParameterSet teamSize="4"/>
+<TeamPlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="TEAMP" number="1"/>
+<PlacementCriterion name="BDW" number="2"/>
+<PlacementCriterion name="BDW3U" number="3"/>
+<PlacementCriterion name="BDW2U" number="4"/>
+<PlacementCriterion name="BDW1U" number="5"/>
+<PlacementCriterion name="MNR" number="6"/>
+</PlacementCriteria>
+</TeamPlacementParameterSet>
+</TeamTournamentParameterSet>
+</Tournament>

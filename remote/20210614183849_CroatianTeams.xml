@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tournament dataVersion="201" externalIPAddress="93.142.69.80" gothaMinorVersion="0" gothaVersion="349" saveDT="20210614183849">
+<Players>
+<Player agaExpirationDate="" agaId="" club="Sred" country="HR" egfPin="10249041" ffgLicence="" ffgLicenceStatus="" firstName="Zoran" grade=" 5D" name="Mutabzija" participating="11000111111111111111" rank="3D" rating="2250" ratingOrigin="EGF : 2250" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Vrba" country="HR" egfPin="18286741" ffgLicence="" ffgLicenceStatus="" firstName="Tonka" grade="13K" name="Zderic" participating="00001111111111111111" rank="12K" rating="855" ratingOrigin="EGF : 855" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Kuti" country="HR" egfPin="16962187" ffgLicence="" ffgLicenceStatus="" firstName="Branko" grade=" 8K" name="Odobasic" participating="01101111111111111111" rank="7K" rating="1403" ratingOrigin="EGF : 1403" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="VGrd" country="HR" egfPin="18433250" ffgLicence="" ffgLicenceStatus="" firstName="Andrija" grade="16K" name="Krnjic" participating="11111111111111111111" rank="15K" rating="553" ratingOrigin="EGF : 553" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Sred" country="HR" egfPin="18337924" ffgLicence="" ffgLicenceStatus="" firstName="Matko" grade=" 9K" name="Simic" participating="00111111111111111111" rank="8K" rating="1284" ratingOrigin="EGF : 1284" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Vrba" country="HR" egfPin="17437574" ffgLicence="" ffgLicenceStatus="" firstName="Stjepan" grade=" 4K" name="Medak" participating="11111111111111111111" rank="4K" rating="1717" ratingOrigin="EGF : 1717" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="VGor" country="HR" egfPin="10398982" ffgLicence="" ffgLicenceStatus="" firstName="Mladen" grade=" 4K" name="Smud" participating="11101111111111111111" rank="1K" rating="1977" ratingOrigin="EGF : 1977" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="VGrd" country="HR" egfPin="15462260" ffgLicence="" ffgLicenceStatus="" firstName="Mirko" grade=" 9K" name="Maronic" participating="11111111111111111111" rank="7K" rating="1407" ratingOrigin="EGF : 1407" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Sred" country="HR" egfPin="18513286" ffgLicence="" ffgLicenceStatus="" firstName="Tadej" grade=" 1D" name="Tukara" participating="11111111111111111111" rank="1D" rating="2063" ratingOrigin="EGF : 2063" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Vrba" country="HR" egfPin="18262739" ffgLicence="" ffgLicenceStatus="" firstName="Roko" grade=" 5K" name="Crvelin" participating="11111111111111111111" rank="6K" rating="1536" ratingOrigin="EGF : 1536" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="VGor" country="HR" egfPin="18637256" ffgLicence="" ffgLicenceStatus="" firstName="Karlo" grade=" 4K" name="Vlahovic" participating="11110111111111111111" rank="5K" rating="1615" ratingOrigin="EGF : 1615" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Kuti" country="HR" egfPin="16598670" ffgLicence="" ffgLicenceStatus="" firstName="Drazen" grade="10K" name="Odobasic" participating="10110111111111111111" rank="9K" rating="1189" ratingOrigin="EGF : 1189" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Sred" country="HR" egfPin="16525718" ffgLicence="" ffgLicenceStatus="" firstName="Mirta" grade=" 1D" name="Medak" participating="11111111111111111111" rank="1D" rating="2142" ratingOrigin="EGF : 2142" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Vrba" country="HR" egfPin="16533715" ffgLicence="" ffgLicenceStatus="" firstName="Damir" grade=" 2K" name="Medak" participating="10100111111111111111" rank="2K" rating="1914" ratingOrigin="EGF : 1914" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Kuti" country="HR" egfPin="17586987" ffgLicence="" ffgLicenceStatus="" firstName="Luka" grade="20K" name="Globan" participating="11011111111111111111" rank="20K" rating="60" ratingOrigin="EGF : 60" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Kuti" country="HR" egfPin="18650027" ffgLicence="" ffgLicenceStatus="" firstName="Matej" grade="15K" name="Rosic" participating="11111111111111111111" rank="14K" rating="684" ratingOrigin="EGF : 684" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="GKIN" country="HR" egfPin="18501901" ffgLicence="" ffgLicenceStatus="" firstName="Antun" grade="14K" name="Derencin" participating="11101111111111111111" rank="13K" rating="781" ratingOrigin="EGF : 781" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="VGrd" country="HR" egfPin="18786614" ffgLicence="" ffgLicenceStatus="" firstName="Noa" grade="20K" name="Sanda" participating="00000111111111111111" rank="22K" rating="-84" ratingOrigin="EGF : -84" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="GKIN" country="HR" egfPin="10525735" ffgLicence="" ffgLicenceStatus="" firstName="Zvonko" grade=" 2K" name="Bednjanec" participating="10110111111111111111" rank="1K" rating="2024" ratingOrigin="EGF : 2024" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Kuti" country="HR" egfPin="18674029" ffgLicence="" ffgLicenceStatus="" firstName="Bruno" grade="16K" name="Pavlicic" participating="00000111111111111111" rank="17K" rating="427" ratingOrigin="EGF : 427" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="GKIN" country="HR" egfPin="18725124" ffgLicence="" ffgLicenceStatus="" firstName="Marta" grade=" 7K" name="Miksa" participating="01111111111111111111" rank="6K" rating="1456" ratingOrigin="EGF : 1456" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="VGor" country="HR" egfPin="16450247" ffgLicence="" ffgLicenceStatus="" firstName="Vladimir" grade=" 5K" name="Ribicic" participating="00011111111111111111" rank="5K" rating="1614" ratingOrigin="EGF : 1614" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="VGrd" country="HR" egfPin="18798615" ffgLicence="" ffgLicenceStatus="" firstName="Danijel" grade="16K" name="Procek" participating="11111111111111111111" rank="15K" rating="615" ratingOrigin="EGF : 615" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="GKIN" country="CN" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Yexin" grade="10" name="Xiao" participating="00010111111111111111" rank="10K" rating="1000" ratingOrigin="MAN" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="Vrba" country="HR" egfPin="18298742" ffgLicence="" ffgLicenceStatus="" firstName="Teo" grade="11K" name="Sladetic" participating="01110111111111111111" rank="11K" rating="987" ratingOrigin="EGF : 987" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="VGor" country="HR" egfPin="15350247" ffgLicence="" ffgLicenceStatus="" firstName="Lovro" grade=" 2D" name="Furjanic" participating="11111111111111111111" rank="3D" rating="2313" ratingOrigin="EGF : 2313" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="GKIN" country="HR" egfPin="13913394" ffgLicence="" ffgLicenceStatus="" firstName="Mato" grade=" 6K" name="Tausan" participating="00001111111111111111" rank="4K" rating="1662" ratingOrigin="EGF : 1662" registeringStatus="FIN" smmsCorrection="0"/>
+<Player agaExpirationDate="" agaId="" club="GKIN" country="HR" egfPin="19333490" ffgLicence="" ffgLicenceStatus="" firstName="Drazen" grade="15K" name="Bicanic" participating="11110000000000000000" rank="15K" rating="591" ratingOrigin="EGF : 591" registeringStatus="FIN" smmsCorrection="0"/>
+</Players>
+<Games>
+<Game blackPlayer="MARONICMIRKO" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="1" whitePlayer="ODOBASICDRAZEN"/>
+<Game blackPlayer="XIAOYEXIN" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="9" whitePlayer="SIMICMATKO"/>
+<Game blackPlayer="ROSICMATEJ" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="2" whitePlayer="PROCEKDANIJEL"/>
+<Game blackPlayer="KRNJICANDRIJA" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="3" whitePlayer="GLOBANLUKA"/>
+<Game blackPlayer="BEDNJANECZVONKO" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="4" whitePlayer="FURJANICLOVRO"/>
+<Game blackPlayer="SMUDMLADEN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="5" whitePlayer="DERENCINANTUN"/>
+<Game blackPlayer="BICANICDRAZEN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="6" whitePlayer="VLAHOVICKARLO"/>
+<Game blackPlayer="MUTABZIJAZORAN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="7" whitePlayer="MEDAKDAMIR"/>
+<Game blackPlayer="MEDAKSTJEPAN" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="8" whitePlayer="TUKARATADEJ"/>
+<Game blackPlayer="MEDAKMIRTA" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="9" whitePlayer="CRVELINROKO"/>
+<Game blackPlayer="BEDNJANECZVONKO" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="1" whitePlayer="ODOBASICBRANKO"/>
+<Game blackPlayer="ODOBASICDRAZEN" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="2" whitePlayer="MIKSAMARTA"/>
+<Game blackPlayer="DERENCINANTUN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="3" whitePlayer="ROSICMATEJ"/>
+<Game blackPlayer="TUKARATADEJ" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="4" whitePlayer="MARONICMIRKO"/>
+<Game blackPlayer="PROCEKDANIJEL" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="5" whitePlayer="MEDAKMIRTA"/>
+<Game blackPlayer="SIMICMATKO" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="6" whitePlayer="KRNJICANDRIJA"/>
+<Game blackPlayer="MEDAKDAMIR" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="7" whitePlayer="FURJANICLOVRO"/>
+<Game blackPlayer="SMUDMLADEN" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="8" whitePlayer="MEDAKSTJEPAN"/>
+<Game blackPlayer="CRVELINROKO" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="9" whitePlayer="VLAHOVICKARLO"/>
+<Game blackPlayer="TUKARATADEJ" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="5" tableNumber="1" whitePlayer="ODOBASICBRANKO"/>
+<Game blackPlayer="ROSICMATEJ" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="5" tableNumber="2" whitePlayer="MEDAKMIRTA"/>
+<Game blackPlayer="SIMICMATKO" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="5" tableNumber="3" whitePlayer="GLOBANLUKA"/>
+<Game blackPlayer="MEDAKSTJEPAN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="5" tableNumber="4" whitePlayer="TAUSANMATO"/>
+<Game blackPlayer="MIKSAMARTA" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="5" tableNumber="5" whitePlayer="CRVELINROKO"/>
+<Game blackPlayer="ZDERICTONKA" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="5" tableNumber="6" whitePlayer="DERENCINANTUN"/>
+<Game blackPlayer="FURJANICLOVRO" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="5" tableNumber="7" whitePlayer="MARONICMIRKO"/>
+<Game blackPlayer="PROCEKDANIJEL" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="5" tableNumber="8" whitePlayer="SMUDMLADEN"/>
+<Game blackPlayer="ODOBASICBRANKO" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="1" whitePlayer="MEDAKSTJEPAN"/>
+<Game blackPlayer="RIBICICVLADIMIR" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="5" tableNumber="9" whitePlayer="KRNJICANDRIJA"/>
+<Game blackPlayer="CRVELINROKO" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="2" whitePlayer="ROSICMATEJ"/>
+<Game blackPlayer="GLOBANLUKA" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="3" whitePlayer="SLADETICTEO"/>
+<Game blackPlayer="FURJANICLOVRO" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="4" whitePlayer="MUTABZIJAZORAN"/>
+<Game blackPlayer="TUKARATADEJ" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="5" whitePlayer="SMUDMLADEN"/>
+<Game blackPlayer="VLAHOVICKARLO" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="6" whitePlayer="MEDAKMIRTA"/>
+<Game blackPlayer="MARONICMIRKO" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="7" whitePlayer="MIKSAMARTA"/>
+<Game blackPlayer="DERENCINANTUN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="8" whitePlayer="PROCEKDANIJEL"/>
+<Game blackPlayer="KRNJICANDRIJA" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="9" whitePlayer="BICANICDRAZEN"/>
+<Game blackPlayer="ODOBASICDRAZEN" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="1" whitePlayer="FURJANICLOVRO"/>
+<Game blackPlayer="VLAHOVICKARLO" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="2" whitePlayer="ROSICMATEJ"/>
+<Game blackPlayer="GLOBANLUKA" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="3" whitePlayer="RIBICICVLADIMIR"/>
+<Game blackPlayer="MARONICMIRKO" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="4" whitePlayer="MEDAKSTJEPAN"/>
+<Game blackPlayer="CRVELINROKO" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="5" whitePlayer="PROCEKDANIJEL"/>
+<Game blackPlayer="KRNJICANDRIJA" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="6" whitePlayer="SLADETICTEO"/>
+<Game blackPlayer="BEDNJANECZVONKO" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="7" whitePlayer="TUKARATADEJ"/>
+<Game blackPlayer="MEDAKMIRTA" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="8" whitePlayer="MIKSAMARTA"/>
+</Games>
+<Teams>
+<Team teamName="Kutina" teamNumber="6">
+<Board boardNumber="1" player="ODOBASICDRAZEN" roundNumber="1"/>
+<Board boardNumber="2" player="ROSICMATEJ" roundNumber="1"/>
+<Board boardNumber="3" player="GLOBANLUKA" roundNumber="1"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="2"/>
+<Board boardNumber="2" player="ROSICMATEJ" roundNumber="2"/>
+<Board boardNumber="3" player="GLOBANLUKA" roundNumber="2"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="3"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="3"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="3"/>
+<Board boardNumber="1" player="ODOBASICDRAZEN" roundNumber="4"/>
+<Board boardNumber="2" player="ROSICMATEJ" roundNumber="4"/>
+<Board boardNumber="3" player="GLOBANLUKA" roundNumber="4"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="5"/>
+<Board boardNumber="2" player="ROSICMATEJ" roundNumber="5"/>
+<Board boardNumber="3" player="GLOBANLUKA" roundNumber="5"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="6"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="6"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="6"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="7"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="7"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="7"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="8"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="8"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="8"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="9"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="9"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="9"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="10"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="10"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="10"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="11"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="11"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="11"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="12"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="12"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="12"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="13"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="13"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="13"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="14"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="14"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="14"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="15"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="15"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="15"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="16"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="16"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="16"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="17"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="17"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="17"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="18"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="18"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="18"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="19"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="19"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="19"/>
+<Board boardNumber="1" player="ODOBASICBRANKO" roundNumber="20"/>
+<Board boardNumber="2" player="ODOBASICDRAZEN" roundNumber="20"/>
+<Board boardNumber="3" player="ROSICMATEJ" roundNumber="20"/>
+</Team>
+<Team teamName="Srednjaci" teamNumber="1">
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="1"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="1"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="1"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="2"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="2"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="2"/>
+<Board boardNumber="1" player="TUKARATADEJ" roundNumber="3"/>
+<Board boardNumber="2" player="MEDAKMIRTA" roundNumber="3"/>
+<Board boardNumber="3" player="SIMICMATKO" roundNumber="3"/>
+<Board boardNumber="1" player="TUKARATADEJ" roundNumber="4"/>
+<Board boardNumber="2" player="MEDAKMIRTA" roundNumber="4"/>
+<Board boardNumber="3" player="SIMICMATKO" roundNumber="4"/>
+<Board boardNumber="1" player="TUKARATADEJ" roundNumber="5"/>
+<Board boardNumber="2" player="MEDAKMIRTA" roundNumber="5"/>
+<Board boardNumber="3" player="SIMICMATKO" roundNumber="5"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="6"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="6"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="6"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="7"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="7"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="7"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="8"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="8"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="8"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="9"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="9"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="9"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="10"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="10"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="10"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="11"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="11"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="11"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="12"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="12"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="12"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="13"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="13"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="13"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="14"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="14"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="14"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="15"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="15"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="15"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="16"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="16"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="16"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="17"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="17"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="17"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="18"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="18"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="18"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="19"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="19"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="19"/>
+<Board boardNumber="1" player="MUTABZIJAZORAN" roundNumber="20"/>
+<Board boardNumber="2" player="TUKARATADEJ" roundNumber="20"/>
+<Board boardNumber="3" player="MEDAKMIRTA" roundNumber="20"/>
+</Team>
+<Team teamName="Vrbani" teamNumber="5">
+<Board boardNumber="1" player="MEDAKDAMIR" roundNumber="1"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="1"/>
+<Board boardNumber="3" player="CRVELINROKO" roundNumber="1"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="2"/>
+<Board boardNumber="2" player="CRVELINROKO" roundNumber="2"/>
+<Board boardNumber="3" player="SLADETICTEO" roundNumber="2"/>
+<Board boardNumber="1" player="MEDAKDAMIR" roundNumber="3"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="3"/>
+<Board boardNumber="3" player="CRVELINROKO" roundNumber="3"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="4"/>
+<Board boardNumber="2" player="CRVELINROKO" roundNumber="4"/>
+<Board boardNumber="3" player="SLADETICTEO" roundNumber="4"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="5"/>
+<Board boardNumber="2" player="CRVELINROKO" roundNumber="5"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="5"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="6"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="6"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="6"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="7"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="7"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="7"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="8"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="8"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="8"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="9"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="9"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="9"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="10"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="10"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="10"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="11"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="11"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="11"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="12"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="12"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="12"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="13"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="13"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="13"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="14"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="14"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="14"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="15"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="15"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="15"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="16"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="16"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="16"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="17"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="17"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="17"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="18"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="18"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="18"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="19"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="19"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="19"/>
+<Board boardNumber="1" player="MEDAKSTJEPAN" roundNumber="20"/>
+<Board boardNumber="2" player="MEDAKSTJEPAN" roundNumber="20"/>
+<Board boardNumber="3" player="ZDERICTONKA" roundNumber="20"/>
+</Team>
+<Team teamName="Gordowa" teamNumber="4">
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="1"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="1"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="1"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="2"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="2"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="2"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="3"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="3"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="3"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="4"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="4"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="4"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="5"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="5"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="5"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="6"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="6"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="6"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="7"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="7"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="7"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="8"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="8"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="8"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="9"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="9"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="9"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="10"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="10"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="10"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="11"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="11"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="11"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="12"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="12"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="12"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="13"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="13"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="13"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="14"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="14"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="14"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="15"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="15"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="15"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="16"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="16"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="16"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="17"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="17"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="17"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="18"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="18"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="18"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="19"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="19"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="19"/>
+<Board boardNumber="1" player="MARONICMIRKO" roundNumber="20"/>
+<Board boardNumber="2" player="PROCEKDANIJEL" roundNumber="20"/>
+<Board boardNumber="3" player="KRNJICANDRIJA" roundNumber="20"/>
+</Team>
+<Team teamName="Velika Gorica" teamNumber="2">
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="1"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="1"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="1"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="2"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="2"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="2"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="3"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="3"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="3"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="4"/>
+<Board boardNumber="2" player="VLAHOVICKARLO" roundNumber="4"/>
+<Board boardNumber="3" player="RIBICICVLADIMIR" roundNumber="4"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="5"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="5"/>
+<Board boardNumber="3" player="RIBICICVLADIMIR" roundNumber="5"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="6"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="6"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="6"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="7"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="7"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="7"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="8"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="8"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="8"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="9"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="9"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="9"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="10"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="10"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="10"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="11"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="11"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="11"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="12"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="12"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="12"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="13"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="13"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="13"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="14"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="14"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="14"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="15"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="15"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="15"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="16"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="16"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="16"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="17"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="17"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="17"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="18"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="18"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="18"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="19"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="19"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="19"/>
+<Board boardNumber="1" player="FURJANICLOVRO" roundNumber="20"/>
+<Board boardNumber="2" player="SMUDMLADEN" roundNumber="20"/>
+<Board boardNumber="3" player="VLAHOVICKARLO" roundNumber="20"/>
+</Team>
+<Team teamName="Insei" teamNumber="3">
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="1"/>
+<Board boardNumber="2" player="DERENCINANTUN" roundNumber="1"/>
+<Board boardNumber="3" player="BICANICDRAZEN" roundNumber="1"/>
+<Board boardNumber="1" player="MIKSAMARTA" roundNumber="2"/>
+<Board boardNumber="2" player="DERENCINANTUN" roundNumber="2"/>
+<Board boardNumber="3" player="BICANICDRAZEN" roundNumber="2"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="3"/>
+<Board boardNumber="2" player="MIKSAMARTA" roundNumber="3"/>
+<Board boardNumber="3" player="DERENCINANTUN" roundNumber="3"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="4"/>
+<Board boardNumber="2" player="MIKSAMARTA" roundNumber="4"/>
+<Board boardNumber="3" player="XIAOYEXIN" roundNumber="4"/>
+<Board boardNumber="1" player="TAUSANMATO" roundNumber="5"/>
+<Board boardNumber="2" player="MIKSAMARTA" roundNumber="5"/>
+<Board boardNumber="3" player="DERENCINANTUN" roundNumber="5"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="6"/>
+<Board boardNumber="2" player="TAUSANMATO" roundNumber="6"/>
+<Board boardNumber="3" player="MIKSAMARTA" roundNumber="6"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="7"/>
+<Board boardNumber="2" player="TAUSANMATO" roundNumber="7"/>
+<Board boardNumber="3" player="MIKSAMARTA" roundNumber="7"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="8"/>
+<Board boardNumber="2" player="TAUSANMATO" roundNumber="8"/>
+<Board boardNumber="3" player="MIKSAMARTA" roundNumber="8"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="9"/>
+<Board boardNumber="2" player="TAUSANMATO" roundNumber="9"/>
+<Board boardNumber="3" player="MIKSAMARTA" roundNumber="9"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="10"/>
+<Board boardNumber="2" player="TAUSANMATO" roundNumber="10"/>
+<Board boardNumber="3" player="MIKSAMARTA" roundNumber="10"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="11"/>
+<Board boardNumber="2" player="TAUSANMATO" roundNumber="11"/>
+<Board boardNumber="3" player="MIKSAMARTA" roundNumber="11"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="12"/>
+<Board boardNumber="2" player="TAUSANMATO" roundNumber="12"/>
+<Board boardNumber="3" player="MIKSAMARTA" roundNumber="12"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="13"/>
+<Board boardNumber="2" player="TAUSANMATO" roundNumber="13"/>
+<Board boardNumber="3" player="MIKSAMARTA" roundNumber="13"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="14"/>
+<Board boardNumber="2" player="TAUSANMATO" roundNumber="14"/>
+<Board boardNumber="3" player="MIKSAMARTA" roundNumber="14"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="15"/>
+<Board boardNumber="2" player="TAUSANMATO" roundNumber="15"/>
+<Board boardNumber="3" player="MIKSAMARTA" roundNumber="15"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="16"/>
+<Board boardNumber="2" player="TAUSANMATO" roundNumber="16"/>
+<Board boardNumber="3" player="MIKSAMARTA" roundNumber="16"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="17"/>
+<Board boardNumber="2" player="TAUSANMATO" roundNumber="17"/>
+<Board boardNumber="3" player="MIKSAMARTA" roundNumber="17"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="18"/>
+<Board boardNumber="2" player="TAUSANMATO" roundNumber="18"/>
+<Board boardNumber="3" player="MIKSAMARTA" roundNumber="18"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="19"/>
+<Board boardNumber="2" player="TAUSANMATO" roundNumber="19"/>
+<Board boardNumber="3" player="MIKSAMARTA" roundNumber="19"/>
+<Board boardNumber="1" player="BEDNJANECZVONKO" roundNumber="20"/>
+<Board boardNumber="2" player="TAUSANMATO" roundNumber="20"/>
+<Board boardNumber="3" player="MIKSAMARTA" roundNumber="20"/>
+</Team>
+</Teams>
+<TournamentParameterSet>
+<GeneralParameterSet basicTime="60" beginDate="2020-12-15" canByoYomiTime="300" complementaryTimeSystem="STDBYOYOMI" director="Damir Medak" endDate="2021-12-29" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="9D" genMMFloor="30K" genMMS2ValueAbsent="1" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="2" genRoundDownNBWMMS="true" komi="6.5" location="Online Go Server" name="Croatian Team Championship" nbMovesCanTime="15" numberOfCategories="1" numberOfRounds="5" shortName="CroatianTeams" size="19" stdByoYomiTime="30"/>
+<HandicapParameterSet hdBasedOnMMS="false" hdCeiling="0" hdCorrection="0" hdNoHdRankThreshold="30K"/>
+<PlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="NBW" number="1"/>
+<PlacementCriterion name="SOSW" number="2"/>
+<PlacementCriterion name="SOSOSW" number="3"/>
+<PlacementCriterion name="NULL" number="4"/>
+<PlacementCriterion name="NULL" number="5"/>
+<PlacementCriterion name="NULL" number="6"/>
+</PlacementCriteria>
+</PlacementParameterSet>
+<PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="Rating" paiMaAvoidMixingCategories="0" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="MID" paiMaDUDDUpperMode="MID" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDSLIP" paiMaSeedSystem2="SPLITANDSLIP" paiSeAvoidSameGeo="0" paiSeBarThresholdActive="true" paiSeDefSecCrit="20000000000000" paiSeMinimizeHandicap="0" paiSeNbWinsThresholdActive="true" paiSePreferMMSDiffRatherThanSameClub="0" paiSePreferMMSDiffRatherThanSameClubsGroup="0" paiSePreferMMSDiffRatherThanSameCountry="0" paiSeRankThreshold="30K" paiStandardNX1Factor="0.5"/>
+<DPParameterSet displayClCol="true" displayCoCol="true" displayIndGamesInMatches="true" displayNPPlayers="false" displayNumCol="true" displayPlCol="true" gameFormat="full" playerSortType="name" showByePlayer="true" showNotFinallyRegisteredPlayers="true" showNotPairedPlayers="true" showNotParticipatingPlayers="true" showPlayerClub="true" showPlayerCountry="false" showPlayerGrade="true"/>
+<PublishParameterSet exportToLocalFile="true" htmlAutoScroll="false" print="true"/>
+</TournamentParameterSet>
+<TeamTournamentParameterSet>
+<TeamGeneralParameterSet teamSize="3"/>
+<TeamPlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="TEAMP" number="1"/>
+<PlacementCriterion name="BDW" number="2"/>
+<PlacementCriterion name="BDW3U" number="3"/>
+<PlacementCriterion name="BDW2U" number="4"/>
+<PlacementCriterion name="BDW1U" number="5"/>
+<PlacementCriterion name="MNR" number="6"/>
+</PlacementCriteria>
+</TeamPlacementParameterSet>
+</TeamTournamentParameterSet>
+</Tournament>

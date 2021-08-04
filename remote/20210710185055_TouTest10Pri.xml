@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tournament externalIPAddress="77.128.107.78" fullVersionNumber="3.51.09" privateTournament="true" remoteUUID="b84e964b-d83b-4609-a665-2021ffb8b726" runningMode="SAL" saveDT="20210710185055">
+<Players>
+<Player agaExpirationDate="2/18/2022" agaId="20436" club="ALBQ" country="US" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Akita" grade="28K" name="Noek" participating="11111111111111111111" rank="28K" rating="-700" ratingOrigin="AGA : -28.50" registeringStatus="FIN" smmsCorrection="0" userName="an"/>
+<Player agaExpirationDate="12/31/2199" agaId="12011" club="ESGC" country="US" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Steve" grade="4K" name="Colburn" participating="11111111111111111111" rank="4K" rating="1668" ratingOrigin="AGA : -4.82" registeringStatus="FIN" smmsCorrection="0" userName="sc"/>
+<Player agaExpirationDate="" agaId="" club="31Ba" country="FR" egfPin="" ffgLicence="7902000" ffgLicenceStatus="L" firstName="Luc" grade="3K" name="Vannier" participating="11111111111111111111" rank="3K" rating="1791" ratingOrigin="FFG : -259" registeringStatus="FIN" smmsCorrection="0" userName="lv"/>
+<Player agaExpirationDate="" agaId="" club="35Re" country="FR" egfPin="" ffgLicence="9643011" ffgLicenceStatus="L" firstName="Rémi" grade="2D" name="Vannier" participating="11111111111111111111" rank="2D" rating="2159" ratingOrigin="FFG : 109" registeringStatus="FIN" smmsCorrection="0" userName="rv"/>
+</Players>
+<Games>
+<Game blackPlayer="COLBURNSTEVE" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="1" whitePlayer="VANNIERRÉMI"/>
+<Game blackPlayer="VANNIERLUC" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="2" whitePlayer="NOEKAKITA"/>
+<Game blackPlayer="NOEKAKITA" handicap="0" knownColor="true" result="RESULT_WHITEWINS_BYDEF" roundNumber="2" tableNumber="1" whitePlayer="VANNIERRÉMI"/>
+<Game blackPlayer="VANNIERLUC" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="2" tableNumber="2" whitePlayer="COLBURNSTEVE"/>
+</Games>
+<Teams>
+<Team teamName="EU" teamNumber="2">
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="1"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="1"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="2"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="2"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="3"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="3"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="4"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="4"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="5"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="5"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="6"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="6"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="7"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="7"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="8"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="8"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="9"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="9"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="10"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="10"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="11"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="11"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="12"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="12"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="13"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="13"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="14"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="14"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="15"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="15"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="16"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="16"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="17"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="17"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="18"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="18"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="19"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="19"/>
+<Board boardNumber="1" player="VANNIERRÉMI" roundNumber="20"/>
+<Board boardNumber="2" player="VANNIERLUC" roundNumber="20"/>
+</Team>
+<Team teamName="US" teamNumber="1">
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="1"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="1"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="2"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="2"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="3"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="3"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="4"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="4"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="5"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="5"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="6"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="6"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="7"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="7"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="8"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="8"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="9"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="9"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="10"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="10"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="11"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="11"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="12"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="12"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="13"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="13"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="14"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="14"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="15"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="15"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="16"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="16"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="17"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="17"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="18"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="18"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="19"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="19"/>
+<Board boardNumber="1" player="COLBURNSTEVE" roundNumber="20"/>
+<Board boardNumber="2" player="NOEKAKITA" roundNumber="20"/>
+</Team>
+</Teams>
+<TournamentParameterSet>
+<GeneralParameterSet bInternetGame="false" basicTime="60" beginDate="2021-07-04" canByoYomiTime="300" complementaryTimeSystem="STDBYOYOMI" director="LV" endDate="2021-07-04" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="4D" genMMFloor="20K" genMMS2ValueAbsent="1" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="2" genRoundDownNBWMMS="true" komi="7.5" location="Toulouse" name="TouTest10Pri" nbMovesCanTime="15" numberOfBZHGroups="4" numberOfCategories="1" numberOfRounds="5" shortName="TouTest10Pri" size="19" stdByoYomiTime="30">
+<BZHGroups>
+<BZHGroup lowerLimit="2K" number="1"/>
+<BZHGroup lowerLimit="7K" number="2"/>
+<BZHGroup lowerLimit="12K" number="3"/>
+</BZHGroups>
+</GeneralParameterSet>
+<HandicapParameterSet hdBase="BZS" hdCeiling="0" hdCorrection="0" hdNoHdRankThreshold="30K"/>
+<PlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="BZS" number="1"/>
+<PlacementCriterion name="SOSB" number="2"/>
+<PlacementCriterion name="SOSOSB" number="3"/>
+<PlacementCriterion name="NULL" number="4"/>
+<PlacementCriterion name="NULL" number="5"/>
+<PlacementCriterion name="NULL" number="6"/>
+</PlacementCriteria>
+</PlacementParameterSet>
+<PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="NULL" paiMaAvoidMixingCategories="0" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="MID" paiMaDUDDUpperMode="MID" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDRANDOM" paiMaSeedSystem2="SPLITANDSLIP" paiSeAvoidSameGeo="100000000000" paiSeBarThresholdActive="true" paiSeDefSecCrit="100000000000" paiSeMinimizeHandicap="0" paiSeNbWinsThresholdActive="false" paiSePreferMMSDiffRatherThanSameClub="3" paiSePreferMMSDiffRatherThanSameCountry="1" paiSeRankThreshold="1D" paiStandardNX1Factor="0.5"/>
+<DPParameterSet displayClCol="true" displayCoCol="true" displayIndGamesInMatches="true" displayNPPlayers="false" displayNumCol="true" displayPlCol="true" gameFormat="full" playerSortType="name" showByePlayer="true" showNotFinallyRegisteredPlayers="true" showNotPairedPlayers="true" showNotParticipatingPlayers="false" showPlayerClub="true" showPlayerCountry="false" showPlayerGrade="true"/>
+<PublishParameterSet exportToLocalFile="true" htmlAutoScroll="false" print="true"/>
+</TournamentParameterSet>
+<TeamTournamentParameterSet>
+<TeamGeneralParameterSet teamSize="2"/>
+<TeamPlacementParameterSet>
+<PlacementCriteria>
+<PlacementCriterion name="TEAMP" number="1"/>
+<PlacementCriterion name="BDW" number="2"/>
+<PlacementCriterion name="BDW3U" number="3"/>
+<PlacementCriterion name="BDW2U" number="4"/>
+<PlacementCriterion name="BDW1U" number="5"/>
+<PlacementCriterion name="MNR" number="6"/>
+</PlacementCriteria>
+</TeamPlacementParameterSet>
+</TeamTournamentParameterSet>
+</Tournament>
